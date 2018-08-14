@@ -1,0 +1,628 @@
+2018-07-18 11:19:03.983 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 1512 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-18 11:19:03.990 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-18 11:19:19.543 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 16.45 seconds (JVM running for 18.871)
+2018-07-18 11:20:16.119 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - joinPoint :org.apache.catalina.connector.RequestFacade@e28fd98
+2018-07-18 11:20:50.942 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 11:21:02.214 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 11:21:02.287 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 11:21:02.298 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 11:21:06.288 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 11:21:09.400 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 11:21:22.049 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 11:21:28.349 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@6c24683c
+2018-07-18 11:21:35.638 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 11:21:35.638 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 11:21:35.639 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 11:21:37.832 logback [http-nio-8091-exec-10] INFO  c.e.fsg.controller.UserController.getUser - user: User{Id=2, username=15527170609, password=c92b51b2f4d93d4e1081670bd9273402, userType=1, status=1, memberId=null, parentUserId=null}
+2018-07-18 11:21:38.386 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.saveCookie - write cookieName:d658172df5974184be18c0e253d9ef18,cookieValue:{"id":2,"password":"c92b51b2f4d93d4e1081670bd9273402","status":1,"userType":1,"username":"15527170609"}
+2018-07-18 11:21:43.966 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - joinPoint :org.apache.catalina.connector.RequestFacade@66a32168
+2018-07-18 11:21:43.967 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 11:21:44.583 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 11:21:44.584 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 11:21:44.585 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 11:21:44.585 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 11:21:45.236 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 11:21:45.237 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 11:21:45.237 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@6c24683c
+2018-07-18 11:21:45.238 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 11:21:45.238 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 11:21:45.239 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 11:21:45.249 logback [http-nio-8091-exec-8] INFO  c.e.fsg.controller.UserController.getUser - user: User{Id=2, username=15527170609, password=c92b51b2f4d93d4e1081670bd9273402, userType=1, status=1, memberId=null, parentUserId=null}
+2018-07-18 11:21:45.252 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.saveCookie - write cookieName:c5f3f3f818be473ba75b5f8fa6d099c0,cookieValue:{"id":2,"password":"c92b51b2f4d93d4e1081670bd9273402","status":1,"userType":1,"username":"15527170609"}
+2018-07-18 15:01:33.378 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 6884 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-18 15:01:33.396 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-18 15:02:54.816 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 5748 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-18 15:02:54.817 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-18 15:03:28.290 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 34.566 seconds (JVM running for 35.751)
+2018-07-18 15:03:38.242 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:03:39.004 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:03:43.316 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:03:46.352 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:03:46.406 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:03:46.411 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:03:46.415 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:0
+2018-07-18 15:03:47.144 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:03:57.536 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:03:58.203 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:04:06.134 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:04:08.501 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:04:08.506 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:04:08.515 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:04:08.522 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:04:08.835 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:04:46.149 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 5748 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-18 15:04:46.149 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-18 15:04:50.713 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 4.673 seconds (JVM running for 118.174)
+2018-07-18 15:05:00.764 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 5748 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-18 15:05:00.764 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-18 15:05:03.527 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.877 seconds (JVM running for 130.988)
+2018-07-18 15:05:14.827 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:05:17.198 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:05:22.108 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:05:25.563 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:05:25.572 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:05:25.578 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:05:25.584 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:05:26.035 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:05:27.672 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:05:28.708 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:05:29.670 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:05:39.519 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:05:39.520 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:05:39.521 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:05:40.069 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:05:40.070 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:05:40.070 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:05:40.071 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:05:40.071 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:05:40.072 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:05:40.075 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:05:40.075 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:07:18.444 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:07:18.445 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:07:18.445 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:07:18.445 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:07:18.445 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:07:18.445 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:07:18.446 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:07:18.446 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:07:18.446 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:07:18.447 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:07:18.447 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:07:18.616 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:07:18.618 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:07:18.619 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:07:18.620 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:07:18.620 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:07:18.621 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:07:18.624 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:07:18.624 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:07:18.625 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:07:18.625 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:07:18.625 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:11:22.532 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:11:22.532 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:11:22.533 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:11:22.534 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:11:22.534 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:11:22.534 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:11:22.535 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:11:22.535 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:11:22.535 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:11:22.535 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:11:22.535 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:11:22.660 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:11:22.660 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:11:22.661 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:11:22.661 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:11:22.662 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:11:22.662 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:11:22.662 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:11:22.662 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:11:22.663 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:11:22.663 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:11:22.663 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:17:28.993 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:17:28.996 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:17:28.996 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:17:28.997 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:17:28.998 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:17:28.998 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:17:28.999 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:17:29.000 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:17:29.000 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:17:29.000 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:17:29.001 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:17:30.324 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:17:30.325 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:17:30.325 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:17:30.325 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:17:30.326 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:17:30.326 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:17:30.327 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:17:30.327 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:17:30.327 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:17:30.327 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:17:30.328 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:18:34.724 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:18:34.724 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:18:34.725 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:18:34.725 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:18:34.726 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:18:34.726 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:18:34.726 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:18:34.727 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:18:34.727 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:18:34.727 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:18:34.728 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:18:35.063 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:18:35.063 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:18:35.064 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:18:35.065 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:18:35.066 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:18:35.067 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:18:35.068 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:18:35.068 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:18:35.068 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:18:35.068 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:18:35.069 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:19:32.813 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:19:32.814 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:19:32.814 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:19:32.815 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:19:32.815 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:19:32.815 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:19:32.816 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:19:32.816 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:19:32.816 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:19:32.816 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:19:32.817 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:19:33.017 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:19:33.017 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:19:33.019 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:19:33.019 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:19:33.022 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:19:33.022 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:19:33.022 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:19:33.023 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:19:33.023 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:19:33.025 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:19:33.027 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:22:41.345 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 16248 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-18 15:22:41.346 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-18 15:23:10.580 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 29.951 seconds (JVM running for 30.624)
+2018-07-18 15:23:14.229 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:23:14.230 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:23:14.231 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:23:14.236 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:23:14.248 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:23:14.250 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:23:14.250 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:23:14.251 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:23:14.252 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:23:14.252 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:23:14.253 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:23:16.369 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:23:16.369 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:23:16.370 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:23:16.370 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:23:16.370 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:23:16.371 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:23:16.372 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:23:16.373 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:23:16.373 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:23:16.374 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:23:16.374 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:26:41.206 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:26:41.207 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:26:41.207 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:26:41.208 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:26:41.208 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:26:41.209 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:26:41.209 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:26:41.209 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:26:41.210 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:26:41.210 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:26:41.210 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:26:41.397 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:26:41.399 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:26:41.401 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:26:41.402 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:26:41.403 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:26:41.405 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:26:41.406 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:26:41.406 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:26:41.407 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:26:41.407 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:26:41.407 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:27:37.376 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:27:37.376 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:27:37.377 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:27:37.377 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:27:37.377 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:27:37.377 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:27:37.377 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:27:37.377 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:27:37.377 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:27:37.377 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:27:37.377 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:27:37.569 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:27:37.570 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:27:37.571 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:27:37.572 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:27:37.572 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:27:37.573 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:27:37.573 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:27:37.573 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:27:37.575 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:27:37.576 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:27:37.576 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:29:02.151 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 16248 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-18 15:29:02.151 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-18 15:29:09.398 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 7.801 seconds (JVM running for 389.443)
+2018-07-18 15:29:24.009 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 16248 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-18 15:29:24.030 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-18 15:29:28.846 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 5.05 seconds (JVM running for 408.89)
+2018-07-18 15:29:35.332 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:29:35.333 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:29:35.334 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:29:35.335 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:29:35.336 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:29:35.336 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:29:35.336 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:29:35.336 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:29:35.336 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:29:35.337 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:29:35.337 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:29:35.522 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:29:35.522 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:29:35.523 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:29:35.523 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:29:35.524 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:29:35.524 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:29:35.525 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:29:35.526 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:29:35.526 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:29:35.527 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:29:35.527 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:30:21.623 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 16248 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-18 15:30:21.623 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-18 15:30:25.778 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 4.239 seconds (JVM running for 465.822)
+2018-07-18 15:31:39.381 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 16248 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-18 15:31:39.381 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-18 15:31:43.460 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 4.163 seconds (JVM running for 543.504)
+2018-07-18 15:31:51.302 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 16248 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-18 15:31:51.302 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-18 15:31:53.304 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.071 seconds (JVM running for 553.348)
+2018-07-18 15:32:11.473 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:32:11.474 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:32:11.474 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:32:11.479 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:32:11.479 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:32:11.480 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:32:11.480 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:32:11.480 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:32:11.481 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:32:11.481 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:32:11.481 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:32:11.739 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:32:11.740 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:32:11.740 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:32:11.741 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:32:11.741 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:32:11.743 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:32:11.744 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:32:11.748 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:32:11.749 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:32:11.749 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:32:11.750 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:32:41.959 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:32:41.960 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:32:41.960 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:32:41.960 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:32:41.961 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:32:41.961 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:32:41.961 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:32:41.961 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:32:41.961 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:32:41.961 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:32:41.962 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:32:42.118 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:32:42.119 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:32:42.119 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:32:42.121 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:32:42.122 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:32:42.123 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:32:42.124 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:32:42.125 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:32:42.126 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:32:42.127 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:32:42.127 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:34:30.462 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 16248 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-18 15:34:30.462 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-18 15:34:32.080 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 1.723 seconds (JVM running for 712.124)
+2018-07-18 15:34:47.192 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 16248 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-18 15:34:47.192 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-18 15:34:48.649 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 1.521 seconds (JVM running for 728.693)
+2018-07-18 15:35:00.662 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:35:00.663 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:35:00.663 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:35:00.665 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:35:00.665 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:35:00.666 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:35:00.666 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:35:00.666 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:35:00.667 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:35:00.667 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:35:00.667 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:35:00.669 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - mlog---mlog :MLog [id=null, createName=XITONG, createTime=Wed Jul 18 15:35:00 CST 2018, remark=获取用户信息-->]
+2018-07-18 15:35:00.843 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:35:00.846 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:35:00.847 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:35:00.848 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:35:00.848 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:35:00.848 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:35:00.848 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:35:00.849 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:35:00.849 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:35:00.849 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:35:00.850 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:35:00.850 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - mlog---mlog :MLog [id=null, createName=XITONG, createTime=Wed Jul 18 15:35:00 CST 2018, remark=获取用户信息-->]
+2018-07-18 15:36:58.111 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 12680 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-18 15:36:58.112 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-18 15:37:30.705 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 33.988 seconds (JVM running for 36.292)
+2018-07-18 15:37:33.944 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:37:33.945 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:37:33.946 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:37:33.971 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:37:33.983 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:37:33.984 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:37:33.985 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:37:33.985 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:37:33.986 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:37:33.986 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:37:33.987 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:37:33.988 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - mlog---mlog :MLog [id=null, createName=XITONG, createTime=Wed Jul 18 15:37:33 CST 2018, remark=获取用户信息-->]
+2018-07-18 15:37:37.288 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:37:37.288 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:37:37.289 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:37:37.289 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:37:37.289 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:37:37.290 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:37:37.294 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:37:37.295 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:37:37.295 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:37:37.296 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:37:37.296 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:37:37.296 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - mlog---mlog :MLog [id=null, createName=XITONG, createTime=Wed Jul 18 15:37:37 CST 2018, remark=获取用户信息-->]
+2018-07-18 15:44:22.119 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 12680 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-18 15:44:22.120 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-18 15:44:25.923 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 3.987 seconds (JVM running for 451.508)
+2018-07-18 15:51:00.947 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:51:00.948 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:51:00.949 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:51:00.953 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:51:00.955 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:51:00.956 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:51:00.957 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:51:00.957 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:51:00.957 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:51:00.958 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:51:00.959 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:51:00.960 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - mlog---mlog :MLog [id=null, createName=XITONG, createTime=Wed Jul 18 15:51:00 CST 2018, remark=获取用户信息-->]
+2018-07-18 15:51:01.574 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:51:01.575 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:51:01.576 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:51:01.578 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:51:01.580 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:51:01.580 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:51:01.580 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:51:01.581 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:51:01.581 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:51:01.581 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:51:01.582 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:51:01.583 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - mlog---mlog :MLog [id=null, createName=XITONG, createTime=Wed Jul 18 15:51:01 CST 2018, remark=获取用户信息-->]
+2018-07-18 15:52:03.061 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 16468 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-18 15:52:03.062 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-18 15:52:32.502 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 30.262 seconds (JVM running for 31.103)
+2018-07-18 15:52:32.752 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:52:32.753 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:52:32.753 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:52:32.758 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:52:32.765 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:52:32.765 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:52:32.765 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:52:32.766 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:52:32.766 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:52:32.766 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:52:32.767 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:52:32.768 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - mlog---mlog :MLog [id=null, createName=XITONG, createTime=Wed Jul 18 15:52:32 CST 2018, remark=获取用户信息-->]
+2018-07-18 15:52:34.052 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@e1c2060
+2018-07-18 15:52:34.062 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:52:34.063 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:52:34.063 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:52:34.063 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:52:34.218 logback [http-nio-8091-exec-7] INFO  c.e.fsg.controller.UserController.getUser - user: User{Id=2, username=15527170609, password=c92b51b2f4d93d4e1081670bd9273402, userType=1, status=1, memberId=null, parentUserId=null}
+2018-07-18 15:52:34.644 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.saveCookie - write cookieName:df16052365784ebd9bfefb2893d4a1d2,cookieValue:{"id":2,"password":"c92b51b2f4d93d4e1081670bd9273402","status":1,"userType":1,"username":"15527170609"}
+2018-07-18 15:52:34.842 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:52:34.842 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:52:34.844 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:52:34.844 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:52:34.845 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:52:34.845 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:52:34.845 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:52:34.846 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:52:34.846 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:52:34.847 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:52:34.847 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:52:34.847 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - mlog---mlog :MLog [id=null, createName=XITONG, createTime=Wed Jul 18 15:52:34 CST 2018, remark=获取用户信息-->]
+2018-07-18 15:52:34.886 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@e1c2060
+2018-07-18 15:52:34.886 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:52:34.888 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:52:34.889 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:52:34.889 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:52:34.899 logback [http-nio-8091-exec-6] INFO  c.e.fsg.controller.UserController.getUser - user: User{Id=2, username=15527170609, password=c92b51b2f4d93d4e1081670bd9273402, userType=1, status=1, memberId=null, parentUserId=null}
+2018-07-18 15:52:34.902 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.saveCookie - write cookieName:aa4d2527ea094b2bbf7da908b25b4b7d,cookieValue:{"id":2,"password":"c92b51b2f4d93d4e1081670bd9273402","status":1,"userType":1,"username":"15527170609"}
+2018-07-18 15:52:48.539 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:52:48.540 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:52:48.540 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:52:48.540 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:52:48.540 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:52:48.541 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:52:48.541 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:52:48.541 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:52:48.543 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:52:48.544 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:52:48.544 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:52:48.544 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - mlog---mlog :MLog [id=null, createName=XITONG, createTime=Wed Jul 18 15:52:48 CST 2018, remark=获取用户信息-->]
+2018-07-18 15:52:48.588 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@e1c2060
+2018-07-18 15:52:48.588 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:52:48.588 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:52:48.588 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:52:48.588 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:52:48.596 logback [http-nio-8091-exec-10] INFO  c.e.fsg.controller.UserController.getUser - user: User{Id=2, username=15527170609, password=c92b51b2f4d93d4e1081670bd9273402, userType=1, status=1, memberId=null, parentUserId=null}
+2018-07-18 15:52:48.598 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.saveCookie - write cookieName:b19086f72656466dafd14cbca3a5498b,cookieValue:{"id":2,"password":"c92b51b2f4d93d4e1081670bd9273402","status":1,"userType":1,"username":"15527170609"}
+2018-07-18 15:52:48.801 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:52:48.802 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:52:48.802 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:52:48.803 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:52:48.804 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:52:48.804 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:52:48.804 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:52:48.804 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:52:48.805 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:52:48.805 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:52:48.806 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:52:48.806 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - mlog---mlog :MLog [id=null, createName=XITONG, createTime=Wed Jul 18 15:52:48 CST 2018, remark=获取用户信息-->]
+2018-07-18 15:52:48.901 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@e1c2060
+2018-07-18 15:52:48.902 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:52:48.902 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:52:48.903 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:52:48.904 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:52:48.914 logback [http-nio-8091-exec-9] INFO  c.e.fsg.controller.UserController.getUser - user: User{Id=2, username=15527170609, password=c92b51b2f4d93d4e1081670bd9273402, userType=1, status=1, memberId=null, parentUserId=null}
+2018-07-18 15:52:48.916 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.saveCookie - write cookieName:cf2838d2fa2f406da79d773e6d7b981f,cookieValue:{"id":2,"password":"c92b51b2f4d93d4e1081670bd9273402","status":1,"userType":1,"username":"15527170609"}
+2018-07-18 15:53:48.000 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:53:48.000 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:53:48.001 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:53:48.001 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:53:48.002 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:53:48.002 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:53:48.002 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:53:48.003 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:53:48.004 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:53:48.004 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:53:48.004 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:53:48.004 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - mlog---mlog :MLog [id=null, createName=XITONG, createTime=Wed Jul 18 15:53:48 CST 2018, remark=获取用户信息-->]
+2018-07-18 15:53:48.043 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@e1c2060
+2018-07-18 15:53:48.044 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:53:48.044 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:53:48.044 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:53:48.045 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:53:48.050 logback [http-nio-8091-exec-1] INFO  c.e.fsg.controller.UserController.getUser - user: User{Id=2, username=15527170609, password=c92b51b2f4d93d4e1081670bd9273402, userType=1, status=1, memberId=null, parentUserId=null}
+2018-07-18 15:53:48.052 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.saveCookie - write cookieName:6a856c0e63874eaa893e3db2e567d499,cookieValue:{"id":2,"password":"c92b51b2f4d93d4e1081670bd9273402","status":1,"userType":1,"username":"15527170609"}
+2018-07-18 15:53:48.311 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:53:48.311 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:53:48.312 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:53:48.312 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:53:48.312 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:53:48.313 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:53:48.313 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:53:48.313 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:53:48.314 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:53:48.314 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:53:48.314 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:53:48.314 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - mlog---mlog :MLog [id=null, createName=XITONG, createTime=Wed Jul 18 15:53:48 CST 2018, remark=获取用户信息-->]
+2018-07-18 15:53:48.360 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@e1c2060
+2018-07-18 15:53:48.360 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-18 15:53:48.360 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:C1F883DE33C4C6B8E7965948B5DBFBBF
+2018-07-18 15:53:48.361 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531879036
+2018-07-18 15:53:48.361 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-3,cookieValue:
+2018-07-18 15:53:48.369 logback [http-nio-8091-exec-7] INFO  c.e.fsg.controller.UserController.getUser - user: User{Id=2, username=15527170609, password=c92b51b2f4d93d4e1081670bd9273402, userType=1, status=1, memberId=null, parentUserId=null}
+2018-07-18 15:53:48.372 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.saveCookie - write cookieName:e8495ba0bcb148b4a33ae9436c92a08b,cookieValue:{"id":2,"password":"c92b51b2f4d93d4e1081670bd9273402","status":1,"userType":1,"username":"15527170609"}
+2018-07-18 15:55:01.398 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:55:01.398 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:55:01.399 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:55:01.399 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:55:01.399 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:55:01.399 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:55:01.400 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:55:01.400 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - mlog---mlog :MLog [id=null, createName=XITONG, createTime=Wed Jul 18 15:55:01 CST 2018, remark=获取用户信息-->]
+2018-07-18 15:55:01.890 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@e1c2060
+2018-07-18 15:55:01.895 logback [http-nio-8091-exec-10] INFO  c.e.fsg.controller.UserController.getUser - user: User{Id=2, username=15527170609, password=c92b51b2f4d93d4e1081670bd9273402, userType=1, status=1, memberId=null, parentUserId=null}
+2018-07-18 15:55:01.897 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.saveCookie - write cookieName:2efe8a9be7ba4715a391a699cde8f55d,cookieValue:{"id":2,"password":"c92b51b2f4d93d4e1081670bd9273402","status":1,"userType":1,"username":"15527170609"}
+2018-07-18 15:55:22.237 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 15:55:22.238 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 15:55:22.239 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 15:55:22.239 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 15:55:22.239 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 15:55:22.239 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 15:55:22.240 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 15:55:22.240 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - mlog---mlog :MLog [id=null, createName=XITONG, createTime=Wed Jul 18 15:55:22 CST 2018, remark=获取用户信息-->]
+2018-07-18 15:55:22.281 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@e1c2060
+2018-07-18 15:55:22.288 logback [http-nio-8091-exec-8] INFO  c.e.fsg.controller.UserController.getUser - user: User{Id=2, username=15527170609, password=c92b51b2f4d93d4e1081670bd9273402, userType=1, status=1, memberId=null, parentUserId=null}
+2018-07-18 15:55:22.289 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.saveCookie - write cookieName:2884b92b47594429bce3238d1254c016,cookieValue:{"id":2,"password":"c92b51b2f4d93d4e1081670bd9273402","status":1,"userType":1,"username":"15527170609"}
+2018-07-18 16:50:57.710 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 16668 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-18 16:50:57.732 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-18 16:51:27.885 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 31.052 seconds (JVM running for 31.736)
+2018-07-18 16:51:51.820 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 16:51:51.822 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 16:51:51.825 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 16:51:51.826 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 16:51:51.834 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 16:51:51.835 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 16:51:51.835 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 16:51:51.837 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - mlog---mlog :MLog [id=null, createName=XITONG, createTime=Wed Jul 18 16:51:51 CST 2018, remark=获取用户信息-->]
+2018-07-18 16:54:14.955 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 16:54:14.956 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 16:54:14.957 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 16:54:14.957 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 16:54:14.958 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 16:54:14.958 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 16:54:14.959 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 16:54:14.960 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - mlog---mlog :MLog [id=null, createName=XITONG, createTime=Wed Jul 18 16:54:14 CST 2018, remark=获取用户信息-->]
+2018-07-18 16:54:43.617 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 16:54:43.618 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 16:54:43.618 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 16:54:43.620 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 16:54:43.621 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 16:54:43.621 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 16:54:43.622 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 16:54:43.622 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - mlog---mlog :MLog [id=null, createName=XITONG, createTime=Wed Jul 18 16:54:43 CST 2018, remark=获取用户信息-->]
+2018-07-18 16:56:06.888 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 16:56:06.889 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 16:56:06.889 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 16:56:06.889 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 16:56:06.890 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 16:56:06.890 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 16:56:06.890 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 16:56:06.890 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - mlog---mlog :MLog [id=null, createName=XITONG, createTime=Wed Jul 18 16:56:06 CST 2018, remark=获取用户信息-->]
+2018-07-18 16:57:36.373 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 16:57:36.373 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 16:57:36.373 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 16:57:36.374 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 16:57:36.374 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 16:57:36.374 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 16:57:36.374 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 16:57:36.374 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - mlog---mlog :MLog [id=null, createName=XITONG, createTime=Wed Jul 18 16:57:36 CST 2018, remark=获取用户信息-->]
+2018-07-18 16:59:59.111 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 16:59:59.112 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 16:59:59.113 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 16:59:59.113 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 16:59:59.113 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 16:59:59.114 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 16:59:59.114 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 16:59:59.114 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - mlog---mlog :MLog [id=null, createName=XITONG, createTime=Wed Jul 18 16:59:59 CST 2018, remark=获取用户信息-->]
+2018-07-18 17:05:08.161 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 9008 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-18 17:05:08.161 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-18 17:05:36.346 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 28.977 seconds (JVM running for 29.819)
+2018-07-18 17:05:40.623 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-18 17:05:40.624 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - params:
+2018-07-18 17:05:40.625 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 进入切面方法
+2018-07-18 17:05:40.627 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - cookiesValue :null
+2018-07-18 17:05:40.637 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - 用户cookiesValue信息为空-----------
+2018-07-18 17:05:40.638 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - sourceMethod :public com.edwin.fsg.model.User com.edwin.fsg.controller.UserController.getUser(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-18 17:05:40.639 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - validate : @com.edwin.fsg.common.annotation.LogInfo(name=获取用户信息, flag=true)
+2018-07-18 17:05:40.641 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - mlog---mlog :MLog [id=null, createName=XITONG, createTime=Wed Jul 18 17:05:40 CST 2018, remark=获取用户信息-->]
+2018-07-18 17:05:41.430 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@6179e2fc
+2018-07-18 17:06:01.346 logback [http-nio-8091-exec-10] INFO  c.e.fsg.controller.UserController.getUser - user: User{Id=2, username=15527170609, password=c92b51b2f4d93d4e1081670bd9273402, userType=1, status=1, memberId=null, parentUserId=null}
+2018-07-18 17:06:01.593 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.saveCookie - write cookieName:da4daaa03b0949caa03cd70e30a4daab,cookieValue:{"id":2,"password":"c92b51b2f4d93d4e1081670bd9273402","status":1,"userType":1,"username":"15527170609"}

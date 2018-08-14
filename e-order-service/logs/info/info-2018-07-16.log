@@ -1,0 +1,60 @@
+2018-07-16 17:12:33.547 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarting - Starting OrderServiceApp on YULANG-PC with PID 11756 (G:\STS\e-parent\e-order-service\target\classes started by Administrator in G:\STS\e-parent\e-order-service)
+2018-07-16 17:12:33.551 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:13:36.805 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarted - Started OrderServiceApp in 66.615 seconds (JVM running for 69.969)
+2018-07-16 17:26:26.911 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarting - Starting OrderServiceApp on YULANG-PC with PID 4280 (G:\STS\e-parent\e-order-service\target\classes started by Administrator in G:\STS\e-parent\e-order-service)
+2018-07-16 17:26:26.912 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:26:54.482 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarted - Started OrderServiceApp in 28.133 seconds (JVM running for 29.351)
+2018-07-16 17:34:09.103 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarting - Starting OrderServiceApp on YULANG-PC with PID 4280 (G:\STS\e-parent\e-order-service\target\classes started by Administrator in G:\STS\e-parent\e-order-service)
+2018-07-16 17:34:09.104 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:34:12.195 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarted - Started OrderServiceApp in 3.226 seconds (JVM running for 467.064)
+2018-07-16 17:50:54.587 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarting - Starting OrderServiceApp on YULANG-PC with PID 4280 (G:\STS\e-parent\e-order-service\target\classes started by Administrator in G:\STS\e-parent\e-order-service)
+2018-07-16 17:50:54.588 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:50:58.440 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarted - Started OrderServiceApp in 3.996 seconds (JVM running for 1473.31)
+2018-07-16 17:51:14.476 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarting - Starting OrderServiceApp on YULANG-PC with PID 4280 (G:\STS\e-parent\e-order-service\target\classes started by Administrator in G:\STS\e-parent\e-order-service)
+2018-07-16 17:51:14.477 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:51:17.932 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarted - Started OrderServiceApp in 3.588 seconds (JVM running for 1492.801)
+2018-07-16 17:51:35.565 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarting - Starting OrderServiceApp on YULANG-PC with PID 4280 (G:\STS\e-parent\e-order-service\target\classes started by Administrator in G:\STS\e-parent\e-order-service)
+2018-07-16 17:51:35.566 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:51:39.258 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarted - Started OrderServiceApp in 3.795 seconds (JVM running for 1514.127)
+2018-07-16 17:52:00.101 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarting - Starting OrderServiceApp on YULANG-PC with PID 4280 (G:\STS\e-parent\e-order-service\target\classes started by Administrator in G:\STS\e-parent\e-order-service)
+2018-07-16 17:52:00.102 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:52:03.360 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarted - Started OrderServiceApp in 3.373 seconds (JVM running for 1538.229)
+2018-07-16 17:52:32.405 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarting - Starting OrderServiceApp on YULANG-PC with PID 4280 (G:\STS\e-parent\e-order-service\target\classes started by Administrator in G:\STS\e-parent\e-order-service)
+2018-07-16 17:52:32.405 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:52:38.356 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarted - Started OrderServiceApp in 6.025 seconds (JVM running for 1573.224)
+2018-07-16 17:53:25.628 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarting - Starting OrderServiceApp on YULANG-PC with PID 4280 (G:\STS\e-parent\e-order-service\target\classes started by Administrator in G:\STS\e-parent\e-order-service)
+2018-07-16 17:53:25.629 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:53:36.788 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarted - Started OrderServiceApp in 11.46 seconds (JVM running for 1631.656)
+2018-07-16 17:53:48.050 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarting - Starting OrderServiceApp on YULANG-PC with PID 4280 (G:\STS\e-parent\e-order-service\target\classes started by Administrator in G:\STS\e-parent\e-order-service)
+2018-07-16 17:53:48.050 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:53:57.827 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarted - Started OrderServiceApp in 10.264 seconds (JVM running for 1652.696)
+2018-07-16 17:54:00.467 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarting - Starting OrderServiceApp on YULANG-PC with PID 4280 (G:\STS\e-parent\e-order-service\target\classes started by Administrator in G:\STS\e-parent\e-order-service)
+2018-07-16 17:54:00.467 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:54:03.495 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarted - Started OrderServiceApp in 3.137 seconds (JVM running for 1658.364)
+2018-07-16 17:55:53.758 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarting - Starting OrderServiceApp on YULANG-PC with PID 4280 (G:\STS\e-parent\e-order-service\target\classes started by Administrator in G:\STS\e-parent\e-order-service)
+2018-07-16 17:55:53.758 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:55:58.716 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarted - Started OrderServiceApp in 5.054 seconds (JVM running for 1773.585)
+2018-07-16 17:58:26.118 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarting - Starting OrderServiceApp on YULANG-PC with PID 4280 (G:\STS\e-parent\e-order-service\target\classes started by Administrator in G:\STS\e-parent\e-order-service)
+2018-07-16 17:58:26.118 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:58:29.872 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarted - Started OrderServiceApp in 3.912 seconds (JVM running for 1924.741)
+2018-07-16 17:58:34.399 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarting - Starting OrderServiceApp on YULANG-PC with PID 4280 (G:\STS\e-parent\e-order-service\target\classes started by Administrator in G:\STS\e-parent\e-order-service)
+2018-07-16 17:58:34.400 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:58:38.408 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarted - Started OrderServiceApp in 4.093 seconds (JVM running for 1933.278)
+2018-07-16 17:59:01.404 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarting - Starting OrderServiceApp on YULANG-PC with PID 4280 (G:\STS\e-parent\e-order-service\target\classes started by Administrator in G:\STS\e-parent\e-order-service)
+2018-07-16 17:59:01.405 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:59:05.889 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarted - Started OrderServiceApp in 4.632 seconds (JVM running for 1960.758)
+2018-07-16 17:59:18.574 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarting - Starting OrderServiceApp on YULANG-PC with PID 4280 (G:\STS\e-parent\e-order-service\target\classes started by Administrator in G:\STS\e-parent\e-order-service)
+2018-07-16 17:59:18.575 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:59:22.055 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarted - Started OrderServiceApp in 3.573 seconds (JVM running for 1976.924)
+2018-07-16 17:59:50.088 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarting - Starting OrderServiceApp on YULANG-PC with PID 4280 (G:\STS\e-parent\e-order-service\target\classes started by Administrator in G:\STS\e-parent\e-order-service)
+2018-07-16 17:59:50.089 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:59:53.599 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarted - Started OrderServiceApp in 3.605 seconds (JVM running for 2008.468)
+2018-07-16 18:00:11.838 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarting - Starting OrderServiceApp on YULANG-PC with PID 4280 (G:\STS\e-parent\e-order-service\target\classes started by Administrator in G:\STS\e-parent\e-order-service)
+2018-07-16 18:00:11.838 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 18:00:18.646 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarted - Started OrderServiceApp in 8.467 seconds (JVM running for 2033.515)
+2018-07-16 18:00:23.020 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarting - Starting OrderServiceApp on YULANG-PC with PID 4280 (G:\STS\e-parent\e-order-service\target\classes started by Administrator in G:\STS\e-parent\e-order-service)
+2018-07-16 18:00:23.022 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 18:00:29.621 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarted - Started OrderServiceApp in 6.827 seconds (JVM running for 2044.49)
+2018-07-16 18:00:46.847 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarting - Starting OrderServiceApp on YULANG-PC with PID 4280 (G:\STS\e-parent\e-order-service\target\classes started by Administrator in G:\STS\e-parent\e-order-service)
+2018-07-16 18:00:46.847 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 18:00:50.049 logback [restartedMain] INFO  com.edwin.fsg.OrderServiceApp.logStarted - Started OrderServiceApp in 3.322 seconds (JVM running for 2064.918)

@@ -1,0 +1,167 @@
+2018-07-16 17:42:33.177 logback [DubboServerHandler-169.254.242.93:20880-thread-15] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} created. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 17:42:33.295 logback [DubboServerHandler-169.254.242.93:20880-thread-15] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Parameters : [2]
+2018-07-16 17:42:33.301 logback [DubboServerHandler-169.254.242.93:20880-thread-15] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Types : [BIGINT]
+2018-07-16 17:42:33.320 logback [DubboServerHandler-169.254.242.93:20880-thread-15] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} executed. 62.599887 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 17:42:33.481 logback [DubboServerHandler-169.254.242.93:20880-thread-15] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} clearParameters. 
+2018-07-16 17:42:46.141 logback [DubboServerHandler-169.254.242.93:20880-thread-12] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Parameters : [2]
+2018-07-16 17:42:46.143 logback [DubboServerHandler-169.254.242.93:20880-thread-12] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Types : [BIGINT]
+2018-07-16 17:42:46.145 logback [DubboServerHandler-169.254.242.93:20880-thread-12] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} executed. 4.074306 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 17:42:46.149 logback [DubboServerHandler-169.254.242.93:20880-thread-12] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} clearParameters. 
+2018-07-16 17:42:46.988 logback [DubboServerHandler-169.254.242.93:20880-thread-13] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Parameters : [2]
+2018-07-16 17:42:46.989 logback [DubboServerHandler-169.254.242.93:20880-thread-13] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Types : [BIGINT]
+2018-07-16 17:42:46.990 logback [DubboServerHandler-169.254.242.93:20880-thread-13] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} executed. 1.608829 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 17:42:46.991 logback [DubboServerHandler-169.254.242.93:20880-thread-13] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} clearParameters. 
+2018-07-16 17:42:47.669 logback [DubboServerHandler-169.254.242.93:20880-thread-14] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Parameters : [2]
+2018-07-16 17:42:47.671 logback [DubboServerHandler-169.254.242.93:20880-thread-14] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Types : [BIGINT]
+2018-07-16 17:42:47.672 logback [DubboServerHandler-169.254.242.93:20880-thread-14] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} executed. 2.96913 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 17:42:47.675 logback [DubboServerHandler-169.254.242.93:20880-thread-14] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} clearParameters. 
+2018-07-16 17:42:47.890 logback [DubboServerHandler-169.254.242.93:20880-thread-16] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Parameters : [2]
+2018-07-16 17:42:47.891 logback [DubboServerHandler-169.254.242.93:20880-thread-16] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Types : [BIGINT]
+2018-07-16 17:42:47.893 logback [DubboServerHandler-169.254.242.93:20880-thread-16] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} executed. 3.337888 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 17:42:47.895 logback [DubboServerHandler-169.254.242.93:20880-thread-16] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} clearParameters. 
+2018-07-16 17:42:48.100 logback [DubboServerHandler-169.254.242.93:20880-thread-17] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Parameters : [2]
+2018-07-16 17:42:48.101 logback [DubboServerHandler-169.254.242.93:20880-thread-17] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Types : [BIGINT]
+2018-07-16 17:42:48.113 logback [DubboServerHandler-169.254.242.93:20880-thread-17] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} executed. 12.567483 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 17:42:48.116 logback [DubboServerHandler-169.254.242.93:20880-thread-17] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} clearParameters. 
+2018-07-16 17:43:24.805 logback [DubboServerHandler-169.254.242.93:20880-thread-18] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Parameters : [2]
+2018-07-16 17:43:24.806 logback [DubboServerHandler-169.254.242.93:20880-thread-18] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Types : [BIGINT]
+2018-07-16 17:43:24.807 logback [DubboServerHandler-169.254.242.93:20880-thread-18] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} executed. 1.590867 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 17:43:24.817 logback [DubboServerHandler-169.254.242.93:20880-thread-18] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} clearParameters. 
+2018-07-16 17:43:25.098 logback [DubboServerHandler-169.254.242.93:20880-thread-19] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Parameters : [2]
+2018-07-16 17:43:25.099 logback [DubboServerHandler-169.254.242.93:20880-thread-19] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Types : [BIGINT]
+2018-07-16 17:43:25.101 logback [DubboServerHandler-169.254.242.93:20880-thread-19] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} executed. 2.461812 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 17:43:25.102 logback [DubboServerHandler-169.254.242.93:20880-thread-19] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} clearParameters. 
+2018-07-16 17:45:08.111 logback [DubboServerHandler-169.254.242.93:20880-thread-20] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Parameters : [2]
+2018-07-16 17:45:08.111 logback [DubboServerHandler-169.254.242.93:20880-thread-20] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Types : [BIGINT]
+2018-07-16 17:45:08.112 logback [DubboServerHandler-169.254.242.93:20880-thread-20] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} executed. 1.039929 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 17:45:08.113 logback [DubboServerHandler-169.254.242.93:20880-thread-20] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} clearParameters. 
+2018-07-16 17:45:08.334 logback [DubboServerHandler-169.254.242.93:20880-thread-21] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Parameters : [2]
+2018-07-16 17:45:08.335 logback [DubboServerHandler-169.254.242.93:20880-thread-21] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Types : [BIGINT]
+2018-07-16 17:45:08.336 logback [DubboServerHandler-169.254.242.93:20880-thread-21] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} executed. 2.150237 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 17:45:08.341 logback [DubboServerHandler-169.254.242.93:20880-thread-21] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} clearParameters. 
+2018-07-16 17:46:56.620 logback [DubboServerHandler-169.254.242.93:20880-thread-22] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Parameters : [2]
+2018-07-16 17:46:56.621 logback [DubboServerHandler-169.254.242.93:20880-thread-22] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Types : [BIGINT]
+2018-07-16 17:46:56.622 logback [DubboServerHandler-169.254.242.93:20880-thread-22] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} executed. 1.387427 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 17:46:56.623 logback [DubboServerHandler-169.254.242.93:20880-thread-22] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} clearParameters. 
+2018-07-16 17:46:56.878 logback [DubboServerHandler-169.254.242.93:20880-thread-23] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Parameters : [2]
+2018-07-16 17:46:56.879 logback [DubboServerHandler-169.254.242.93:20880-thread-23] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Types : [BIGINT]
+2018-07-16 17:46:56.879 logback [DubboServerHandler-169.254.242.93:20880-thread-23] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} executed. 1.159794 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 17:46:56.880 logback [DubboServerHandler-169.254.242.93:20880-thread-23] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} clearParameters. 
+2018-07-16 17:47:11.628 logback [DubboServerHandler-169.254.242.93:20880-thread-24] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Parameters : [2]
+2018-07-16 17:47:11.628 logback [DubboServerHandler-169.254.242.93:20880-thread-24] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Types : [BIGINT]
+2018-07-16 17:47:11.629 logback [DubboServerHandler-169.254.242.93:20880-thread-24] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} executed. 1.065221 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 17:47:11.630 logback [DubboServerHandler-169.254.242.93:20880-thread-24] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} clearParameters. 
+2018-07-16 17:47:18.475 logback [DubboServerHandler-169.254.242.93:20880-thread-25] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Parameters : [2]
+2018-07-16 17:47:18.476 logback [DubboServerHandler-169.254.242.93:20880-thread-25] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Types : [BIGINT]
+2018-07-16 17:47:18.477 logback [DubboServerHandler-169.254.242.93:20880-thread-25] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} executed. 1.715497 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 17:47:18.478 logback [DubboServerHandler-169.254.242.93:20880-thread-25] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} clearParameters. 
+2018-07-16 17:50:53.422 logback [Thread-12] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} closed
+2018-07-16 17:54:18.418 logback [DubboServerHandler-169.254.242.93:20880-thread-26] DEBUG druid.sql.Statement.statementLog - {conn-110005, pstmt-120000} created. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 17:54:18.419 logback [DubboServerHandler-169.254.242.93:20880-thread-26] DEBUG druid.sql.Statement.statementLog - {conn-110005, pstmt-120000} Parameters : [2]
+2018-07-16 17:54:18.419 logback [DubboServerHandler-169.254.242.93:20880-thread-26] DEBUG druid.sql.Statement.statementLog - {conn-110005, pstmt-120000} Types : [BIGINT]
+2018-07-16 17:54:18.420 logback [DubboServerHandler-169.254.242.93:20880-thread-26] DEBUG druid.sql.Statement.statementLog - {conn-110005, pstmt-120000} executed. 1.381195 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 17:54:18.421 logback [DubboServerHandler-169.254.242.93:20880-thread-26] DEBUG druid.sql.Statement.statementLog - {conn-110005, pstmt-120000} clearParameters. 
+2018-07-16 17:54:22.397 logback [DubboServerHandler-169.254.242.93:20880-thread-27] DEBUG druid.sql.Statement.statementLog - {conn-110005, pstmt-120000} Parameters : [2]
+2018-07-16 17:54:22.398 logback [DubboServerHandler-169.254.242.93:20880-thread-27] DEBUG druid.sql.Statement.statementLog - {conn-110005, pstmt-120000} Types : [BIGINT]
+2018-07-16 17:54:22.400 logback [DubboServerHandler-169.254.242.93:20880-thread-27] DEBUG druid.sql.Statement.statementLog - {conn-110005, pstmt-120000} executed. 3.282538 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 17:54:22.405 logback [DubboServerHandler-169.254.242.93:20880-thread-27] DEBUG druid.sql.Statement.statementLog - {conn-110005, pstmt-120000} clearParameters. 
+2018-07-16 17:55:52.945 logback [Thread-60] DEBUG druid.sql.Statement.statementLog - {conn-110005, pstmt-120000} closed
+2018-07-16 18:01:53.559 logback [DubboServerHandler-169.254.242.93:20880-thread-28] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} created. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 18:01:53.560 logback [DubboServerHandler-169.254.242.93:20880-thread-28] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} Parameters : [2]
+2018-07-16 18:01:53.561 logback [DubboServerHandler-169.254.242.93:20880-thread-28] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} Types : [BIGINT]
+2018-07-16 18:01:53.562 logback [DubboServerHandler-169.254.242.93:20880-thread-28] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} executed. 1.523787 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 18:01:53.564 logback [DubboServerHandler-169.254.242.93:20880-thread-28] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} clearParameters. 
+2018-07-16 18:01:54.114 logback [DubboServerHandler-169.254.242.93:20880-thread-29] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} Parameters : [2]
+2018-07-16 18:01:54.116 logback [DubboServerHandler-169.254.242.93:20880-thread-29] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} Types : [BIGINT]
+2018-07-16 18:01:54.118 logback [DubboServerHandler-169.254.242.93:20880-thread-29] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} executed. 3.667425 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 18:01:54.120 logback [DubboServerHandler-169.254.242.93:20880-thread-29] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} clearParameters. 
+2018-07-16 18:02:18.612 logback [DubboServerHandler-169.254.242.93:20880-thread-30] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} Parameters : [2]
+2018-07-16 18:02:18.612 logback [DubboServerHandler-169.254.242.93:20880-thread-30] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} Types : [BIGINT]
+2018-07-16 18:02:18.613 logback [DubboServerHandler-169.254.242.93:20880-thread-30] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} executed. 0.848584 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 18:02:18.613 logback [DubboServerHandler-169.254.242.93:20880-thread-30] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} clearParameters. 
+2018-07-16 18:02:24.807 logback [DubboServerHandler-169.254.242.93:20880-thread-31] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} Parameters : [2]
+2018-07-16 18:02:24.808 logback [DubboServerHandler-169.254.242.93:20880-thread-31] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} Types : [BIGINT]
+2018-07-16 18:02:24.809 logback [DubboServerHandler-169.254.242.93:20880-thread-31] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} executed. 1.431414 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 18:02:24.810 logback [DubboServerHandler-169.254.242.93:20880-thread-31] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} clearParameters. 
+2018-07-16 18:02:48.154 logback [DubboServerHandler-169.254.242.93:20880-thread-32] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} Parameters : [2]
+2018-07-16 18:02:48.159 logback [DubboServerHandler-169.254.242.93:20880-thread-32] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} Types : [BIGINT]
+2018-07-16 18:02:48.169 logback [DubboServerHandler-169.254.242.93:20880-thread-32] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} executed. 15.332806 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 18:02:48.201 logback [DubboServerHandler-169.254.242.93:20880-thread-32] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} clearParameters. 
+2018-07-16 18:03:00.282 logback [DubboServerHandler-169.254.242.93:20880-thread-33] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} Parameters : [2]
+2018-07-16 18:03:00.289 logback [DubboServerHandler-169.254.242.93:20880-thread-33] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} Types : [BIGINT]
+2018-07-16 18:03:00.298 logback [DubboServerHandler-169.254.242.93:20880-thread-33] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} executed. 16.705571 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 18:03:00.348 logback [DubboServerHandler-169.254.242.93:20880-thread-33] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} clearParameters. 
+2018-07-16 18:03:21.372 logback [DubboServerHandler-169.254.242.93:20880-thread-34] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} Parameters : [2]
+2018-07-16 18:03:21.373 logback [DubboServerHandler-169.254.242.93:20880-thread-34] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} Types : [BIGINT]
+2018-07-16 18:03:21.375 logback [DubboServerHandler-169.254.242.93:20880-thread-34] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} executed. 2.1638 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 18:03:21.376 logback [DubboServerHandler-169.254.242.93:20880-thread-34] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} clearParameters. 
+2018-07-16 18:03:22.045 logback [DubboServerHandler-169.254.242.93:20880-thread-35] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} Parameters : [2]
+2018-07-16 18:03:22.046 logback [DubboServerHandler-169.254.242.93:20880-thread-35] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} Types : [BIGINT]
+2018-07-16 18:03:22.047 logback [DubboServerHandler-169.254.242.93:20880-thread-35] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} executed. 2.464011 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 18:03:22.049 logback [DubboServerHandler-169.254.242.93:20880-thread-35] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} clearParameters. 
+2018-07-16 18:03:22.633 logback [DubboServerHandler-169.254.242.93:20880-thread-36] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} Parameters : [2]
+2018-07-16 18:03:22.634 logback [DubboServerHandler-169.254.242.93:20880-thread-36] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} Types : [BIGINT]
+2018-07-16 18:03:22.635 logback [DubboServerHandler-169.254.242.93:20880-thread-36] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} executed. 1.35407 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 18:03:22.636 logback [DubboServerHandler-169.254.242.93:20880-thread-36] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} clearParameters. 
+2018-07-16 18:03:22.836 logback [DubboServerHandler-169.254.242.93:20880-thread-37] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} Parameters : [2]
+2018-07-16 18:03:22.837 logback [DubboServerHandler-169.254.242.93:20880-thread-37] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} Types : [BIGINT]
+2018-07-16 18:03:22.837 logback [DubboServerHandler-169.254.242.93:20880-thread-37] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} executed. 0.966983 millis. select  
+        Id, username, password, user_type, status, member_id
+      from user where id =?
+2018-07-16 18:03:22.839 logback [DubboServerHandler-169.254.242.93:20880-thread-37] DEBUG druid.sql.Statement.statementLog - {conn-210005, pstmt-220000} clearParameters. 

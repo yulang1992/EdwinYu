@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.edwin.fsg.mapper.OrderBakMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.edwin.fsg.model.OrderBak">
+        <result column="Id" property="Id" />
+        <result column="suborder_ids" property="suborderIds" />
+        <result column="product_ids" property="productIds" />
+        <result column="names" property="names" />
+        <result column="product_prices" property="productPrices" />
+        <result column="total_price" property="totalPrice" />
+        <result column="total_count" property="totalCount" />
+        <result column="seller_user_id" property="sellerUserId" />
+        <result column="buyer_user_id" property="buyerUserId" />
+        <result column="logistics_price" property="logisticsPrice" />
+        <result column="address" property="address" />
+        <result column="distributor" property="distributor" />
+        <result column="express_number" property="expressNumber" />
+        <result column="status" property="status" />
+        <result column="pay_id" property="payId" />
+        <result column="remark" property="remark" />
+        <result column="create_time" property="createTime" />
+        <result column="update_time" property="updateTime" />
+        <result column="source" property="source" />
+        <result column="receiver" property="receiver" />
+        <result column="receiver_tel" property="receiverTel" />
+        <result column="refund_remark" property="refundRemark" />
+        <result column="type" property="type" />
+        <result column="unpay_expiry_time" property="unpayExpiryTime" />
+        <result column="activity_id" property="activityId" />
+        <result column="is_closed" property="isClosed" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        Id, suborder_ids, product_ids, names, product_prices, total_price, total_count, seller_user_id, buyer_user_id, logistics_price, address, distributor, express_number, status, pay_id, remark, create_time, update_time, source, receiver, receiver_tel, refund_remark, type, unpay_expiry_time, activity_id, is_closed
+    </sql>
+
+  <insert id="insertOrderBak" parameterMap="BaseResultMap" useGeneratedKeys="true" keyProperty="id">
+  <!-- useGeneratedKeys="true" keyProperty="xxx" for sqlserver and mysql -->
+        INSERT INTO `order_bak` (
+        	Id ,
+        	type ,
+        	suborder_ids ,
+        	product_ids ,
+        	names ,
+        	product_prices ,
+        	total_price ,
+        	total_count ,
+        	seller_user_id ,
+        	buyer_user_id ,
+        	logistics_price ,
+        	address ,
+        	distributor ,
+        	express_number ,
+        	status ,
+        	pay_id ,
+        	remark ,
+        	create_time ,
+        	unpay_expiry_time ,
+        	update_time ,
+        	source ,
+        	receiver ,
+        	receiver_tel,
+        	activity_id ,
+        	refund_remark,
+        	trade_no,
+        	payment
+        	<if test="@Ognl@isNotEmpty(isShipments)">
+        	, is_shipments
+	        </if>
+        ) VALUES (
+        	#{id} ,
+        	#{type} ,
+        	#{suborderIds} ,
+        	#{productIds} ,
+        	#{names} ,
+        	#{productPrices} ,
+        	#{totalPrice} ,
+        	#{totalCount} ,
+        	#{sellerUserId} ,
+        	#{buyerUserId} ,
+        	#{logisticsPrice} ,
+        	#{address} ,
+        	#{distributor} ,
+        	#{expressNumber} ,
+        	#{status} ,
+        	#{payId} ,
+        	#{remark} ,
+        	#{createTime} ,
+        	#{unpayExpiryTime} ,
+        	#{updateTime} ,
+        	#{source} ,
+        	#{receiver} ,
+        	#{receiverTel},
+        	#{activityId},
+        	#{refundRemark},
+        	#{tradeNo},
+        	#{payment}
+        	<if test="@Ognl@isNotEmpty(isShipments)">
+        	, #{isShipments}
+	        </if>
+        )
+		<!--	
+			oracle: order="BEFORE" SELECT sequenceName.nextval AS ID FROM DUAL 
+			DB2: order="BEFORE"" values nextval for sequenceName
+		
+		<selectKey resultType="java.lang.Long" order="BEFORE" keyProperty="id">
+			SELECT sequenceName.nextval AS ID FROM DUAL 
+        </selectKey>
+		-->
+  </insert>
+</mapper>

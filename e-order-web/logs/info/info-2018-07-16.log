@@ -1,0 +1,168 @@
+2018-07-16 17:19:35.555 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 1112 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-16 17:19:35.556 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:19:59.832 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 24.729 seconds (JVM running for 26.094)
+2018-07-16 17:24:24.969 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:24:24.973 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:24:24.974 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:24:24.974 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:24:26.368 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:24:26.368 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:24:26.369 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:24:26.369 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:25:37.138 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:25:37.138 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:25:37.138 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:25:37.139 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:25:37.675 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:25:37.676 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:25:37.676 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:25:37.676 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:27:36.359 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8268 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-16 17:27:36.360 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:28:06.821 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 31.352 seconds (JVM running for 32.272)
+2018-07-16 17:28:20.549 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:28:20.558 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:28:20.559 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:28:20.560 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:28:21.265 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:28:21.266 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:28:21.267 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:28:21.267 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:30:28.336 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:30:28.347 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:30:28.356 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:30:28.362 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:30:45.324 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:30:45.335 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:30:45.344 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:30:45.353 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:33:33.564 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8268 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-16 17:33:33.565 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:33:37.957 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 4.725 seconds (JVM running for 363.408)
+2018-07-16 17:34:22.370 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:34:22.382 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:34:22.388 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:34:22.393 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:34:30.682 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:34:30.683 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:34:30.684 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:34:30.684 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:39:59.389 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:39:59.401 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:39:59.410 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:39:59.419 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:40:09.355 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:40:09.356 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:40:09.357 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:40:09.358 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:41:34.570 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8268 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-16 17:41:34.571 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:41:37.564 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 3.114 seconds (JVM running for 843.015)
+2018-07-16 17:41:48.498 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8268 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-16 17:41:48.499 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:41:51.851 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 3.468 seconds (JVM running for 857.302)
+2018-07-16 17:42:09.381 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:42:09.393 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:42:09.400 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:42:09.408 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:42:19.309 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:42:19.309 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:42:19.310 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:42:19.313 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:43:24.799 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:43:24.800 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:43:24.800 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:43:24.801 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:43:25.093 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:43:25.094 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:43:25.094 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:43:25.094 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:45:08.100 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:45:08.100 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:45:08.101 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:45:08.101 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:45:08.308 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:45:08.309 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:45:08.309 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:45:08.309 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:46:56.616 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:46:56.617 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:46:56.617 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:46:56.617 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:46:56.850 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:46:56.851 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:46:56.851 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:46:56.851 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:47:08.544 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:47:08.544 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:47:08.545 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:47:08.546 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:47:15.899 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:47:15.899 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:47:15.900 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:47:15.900 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:49:03.839 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8268 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-16 17:49:03.839 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:49:06.175 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.491 seconds (JVM running for 1291.626)
+2018-07-16 17:49:20.193 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8268 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-16 17:49:20.193 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:49:22.462 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.369 seconds (JVM running for 1307.913)
+2018-07-16 17:49:43.628 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8268 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-16 17:49:43.629 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:49:45.328 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 1.773 seconds (JVM running for 1330.779)
+2018-07-16 17:50:27.737 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8268 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-16 17:50:27.738 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:50:30.196 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.55 seconds (JVM running for 1375.646)
+2018-07-16 17:50:31.942 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8268 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-16 17:50:31.943 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:50:33.961 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.095 seconds (JVM running for 1379.412)
+2018-07-16 17:53:25.309 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8268 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-16 17:53:25.310 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:53:34.303 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 9.338 seconds (JVM running for 1559.754)
+2018-07-16 17:53:47.419 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8268 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-16 17:53:47.420 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 17:53:54.272 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 6.952 seconds (JVM running for 1579.722)
+2018-07-16 17:54:13.085 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:54:13.088 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:54:13.089 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:54:13.089 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 17:54:21.234 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 17:54:21.234 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 17:54:21.235 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 17:54:21.235 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 18:00:09.246 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8268 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-16 18:00:09.246 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 18:00:15.133 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 6.035 seconds (JVM running for 1960.584)
+2018-07-16 18:00:24.413 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8268 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-16 18:00:24.414 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 18:00:28.701 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 4.886 seconds (JVM running for 1974.152)
+2018-07-16 18:01:24.563 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8268 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-16 18:01:24.564 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 18:01:26.187 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 1.699 seconds (JVM running for 2031.637)
+2018-07-16 18:01:41.308 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8268 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-16 18:01:41.308 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-16 18:01:42.725 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 1.475 seconds (JVM running for 2048.175)
+2018-07-16 18:01:53.517 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 18:01:53.518 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 18:01:53.519 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 18:01:53.519 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 18:01:54.107 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 18:01:54.107 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 18:01:54.107 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 18:01:54.109 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 18:02:15.057 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 18:02:15.065 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 18:02:15.076 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 18:02:15.084 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 18:02:24.796 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 18:02:24.797 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 18:02:24.797 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 18:02:24.798 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 18:02:46.783 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 18:02:46.784 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 18:02:46.784 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 18:02:46.784 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:
+2018-07-16 18:02:50.746 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:_ga,cookieValue:GA1.1.1372512457.1529635355
+2018-07-16 18:02:50.747 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:JSESSIONID,cookieValue:0C56FF85073E0381D32E1689365BBECD
+2018-07-16 18:02:50.747 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:Hm_lpvt_91471a0372bbb1cae7dc43f903e2105e,cookieValue:1531708071
+2018-07-16 18:02:50.747 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.util.CookiesUtil.getCookieValue - read cookieName:gsScrollPos-14,cookieValue:

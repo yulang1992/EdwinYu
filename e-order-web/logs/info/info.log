@@ -1,0 +1,1178 @@
+2018-07-27 14:00:39.010 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 18520 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:00:39.018 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:01:06.563 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 28.005 seconds (JVM running for 30.763)
+2018-07-27 14:02:10.170 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-27 14:02:49.999 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-27 14:03:14.365 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 18520 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:03:14.365 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:03:27.690 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 13.485 seconds (JVM running for 171.89)
+2018-07-27 14:03:45.997 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 18520 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:03:45.997 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:03:49.456 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 3.582 seconds (JVM running for 193.656)
+2018-07-27 14:03:51.095 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 18520 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:03:51.096 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:03:54.899 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 3.89 seconds (JVM running for 199.099)
+2018-07-27 14:04:14.977 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 18520 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:04:14.977 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:04:17.728 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.818 seconds (JVM running for 221.929)
+2018-07-27 14:05:21.542 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 18520 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:05:21.542 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:05:24.039 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.571 seconds (JVM running for 288.24)
+2018-07-27 14:05:45.345 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 18520 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:05:45.345 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:05:48.092 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.813 seconds (JVM running for 312.292)
+2018-07-27 14:06:02.180 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-27 14:06:26.108 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUser].
+2018-07-27 14:07:19.429 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 18520 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:07:19.429 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:07:23.033 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 3.67 seconds (JVM running for 407.233)
+2018-07-27 14:07:40.334 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 18520 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:07:40.335 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:07:43.029 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.759 seconds (JVM running for 427.23)
+2018-07-27 14:08:23.367 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 18520 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:08:23.367 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:08:25.993 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.686 seconds (JVM running for 470.193)
+2018-07-27 14:13:19.410 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 3252 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:13:19.410 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:13:46.835 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 28.243 seconds (JVM running for 31.179)
+2018-07-27 14:14:24.491 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 14:14:27.633 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@4bf8205e
+2018-07-27 14:15:11.730 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 14:15:12.078 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@d9aa290
+2018-07-27 14:16:16.003 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 3252 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:16:16.004 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:16:18.463 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.537 seconds (JVM running for 182.807)
+2018-07-27 14:16:29.642 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 3252 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:16:29.642 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:16:32.270 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.704 seconds (JVM running for 196.614)
+2018-07-27 14:17:06.946 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 14:17:24.132 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@aed1ca6
+2018-07-27 14:19:21.004 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 14:19:21.197 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@76e990f3
+2018-07-27 14:24:19.406 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 14:24:20.923 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@73830b99
+2018-07-27 14:25:20.880 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 14:25:21.065 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@ace4ada
+2018-07-27 14:34:15.461 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 11752 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:34:15.462 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:34:45.481 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 30.851 seconds (JVM running for 31.785)
+2018-07-27 14:34:48.674 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 14:34:49.192 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 14:35:04.135 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 14:35:04.232 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.LogAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 14:35:43.477 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 11752 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:35:43.480 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:35:46.539 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 3.309 seconds (JVM running for 92.842)
+2018-07-27 14:35:59.332 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 14:36:00.712 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@172f0316
+2018-07-27 14:36:56.226 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 14:36:56.227 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@502e9253
+2018-07-27 14:37:09.510 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 14:37:12.369 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@7e2f430c
+2018-07-27 14:37:34.310 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 14:37:34.311 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@502e9253
+2018-07-27 14:37:46.153 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 11752 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:37:46.153 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:37:50.155 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 4.107 seconds (JVM running for 216.459)
+2018-07-27 14:38:11.224 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 14:38:11.956 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@38ad4005
+2018-07-27 14:38:57.251 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 14:38:57.252 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@16111a1d
+2018-07-27 14:39:21.842 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 14:39:22.396 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@276e543b
+2018-07-27 14:39:38.659 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 14:39:38.659 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@16111a1d
+2018-07-27 14:39:46.032 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 14:39:47.167 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@1d3a4b8b
+2018-07-27 14:39:55.758 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 14:39:55.759 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@16111a1d
+2018-07-27 14:39:59.397 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 14:39:59.613 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@581da039
+2018-07-27 14:39:59.620 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 14:39:59.620 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@16111a1d
+2018-07-27 14:41:59.956 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 11752 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:41:59.957 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:42:03.196 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 3.379 seconds (JVM running for 469.5)
+2018-07-27 14:45:27.881 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 11752 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:45:27.882 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:45:30.191 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.408 seconds (JVM running for 676.495)
+2018-07-27 14:45:39.181 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 14:45:40.342 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@3446640e
+2018-07-27 14:45:42.633 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 14:45:45.831 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 14:45:46.494 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 14:46:47.003 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 14:46:47.004 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 14:46:47.005 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 14:46:47.006 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 14:46:47.007 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 14:46:47.008 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 14:46:47.010 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 14:46:47.011 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@785efdde
+2018-07-27 14:47:53.725 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 14:47:53.949 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@172a1e0a
+2018-07-27 14:47:53.949 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 14:47:53.950 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 14:47:53.950 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 14:47:53.953 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 14:47:53.954 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 14:47:53.955 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 14:47:53.958 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 14:47:53.958 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 14:47:53.959 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 14:47:53.961 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 14:47:53.962 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@785efdde
+2018-07-27 14:52:07.871 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 11752 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:52:07.872 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:52:10.970 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 3.237 seconds (JVM running for 1077.273)
+2018-07-27 14:52:25.466 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 14:52:28.730 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@655e46f0
+2018-07-27 14:52:31.194 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 14:52:33.104 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 14:52:34.711 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 14:53:01.252 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 14:53:01.252 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 14:53:01.254 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 14:53:01.256 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 14:53:01.257 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 14:53:01.257 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 14:53:01.259 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 14:53:01.260 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@61527ba0
+2018-07-27 14:53:14.432 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 14:53:15.129 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@35c03b33
+2018-07-27 14:53:15.130 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 14:53:15.131 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 14:53:15.132 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 14:53:15.135 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 14:53:15.135 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 14:53:15.136 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 14:53:15.138 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 14:53:15.138 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 14:53:15.139 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 14:53:15.146 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 14:53:15.146 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@61527ba0
+2018-07-27 14:53:36.323 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 11752 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:53:36.323 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:53:38.351 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.105 seconds (JVM running for 1164.654)
+2018-07-27 14:54:07.658 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 11752 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:54:07.658 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:54:10.598 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 3.04 seconds (JVM running for 1196.901)
+2018-07-27 14:54:28.864 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 11752 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:54:28.865 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:54:30.955 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.162 seconds (JVM running for 1217.258)
+2018-07-27 14:54:55.070 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 11752 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:54:55.071 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:54:57.374 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.368 seconds (JVM running for 1243.678)
+2018-07-27 14:55:17.482 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 11752 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:55:17.482 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:55:19.433 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.013 seconds (JVM running for 1265.737)
+2018-07-27 14:55:53.817 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 11752 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:55:53.818 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:55:55.582 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 1.834 seconds (JVM running for 1301.886)
+2018-07-27 14:56:39.087 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 11752 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:56:39.088 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:56:41.465 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.444 seconds (JVM running for 1347.769)
+2018-07-27 14:56:58.485 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 11752 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:56:58.485 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:57:00.366 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 1.936 seconds (JVM running for 1366.669)
+2018-07-27 14:57:49.022 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 11752 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 14:57:49.023 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 14:57:51.141 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.184 seconds (JVM running for 1417.445)
+2018-07-27 15:03:30.382 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 11752 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:03:30.383 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:03:32.570 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.278 seconds (JVM running for 1758.873)
+2018-07-27 15:04:17.150 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 11752 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:04:17.151 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:04:19.330 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.255 seconds (JVM running for 1805.633)
+2018-07-27 15:05:36.588 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 11752 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:05:36.589 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:06:28.504 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 11752 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:06:28.505 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:06:40.748 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 11752 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:06:40.748 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:07:33.266 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 5616 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:07:33.267 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:09:21.806 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:09:21.808 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:09:57.687 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 36.745 seconds (JVM running for 37.745)
+2018-07-27 15:10:15.843 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 15:10:16.404 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@433f6b62
+2018-07-27 15:10:19.725 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:10:19.909 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:10:20.626 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:10:31.321 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:10:31.322 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:10:31.322 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:10:34.147 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:10:34.148 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:10:34.149 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:10:34.759 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 15:10:34.760 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@31e491f1
+2018-07-27 15:10:36.409 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 15:10:36.657 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@5b6a845e
+2018-07-27 15:10:36.686 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:10:36.687 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:10:36.687 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:10:36.859 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:10:36.860 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:10:36.861 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:10:37.053 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:10:37.054 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:10:37.055 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:10:37.223 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 15:10:37.224 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@31e491f1
+2018-07-27 15:11:00.658 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:11:00.659 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:11:16.152 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:11:16.152 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:11:20.174 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 4.155 seconds (JVM running for 120.233)
+2018-07-27 15:12:02.355 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:12:02.356 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:12:05.630 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 3.371 seconds (JVM running for 165.689)
+2018-07-27 15:12:25.762 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:12:25.763 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:12:28.257 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.619 seconds (JVM running for 188.316)
+2018-07-27 15:12:41.486 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:12:41.487 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:12:43.799 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.454 seconds (JVM running for 203.858)
+2018-07-27 15:13:08.156 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:13:08.156 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:13:10.485 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.396 seconds (JVM running for 230.544)
+2018-07-27 15:13:38.846 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:13:38.847 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:13:40.831 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.067 seconds (JVM running for 260.889)
+2018-07-27 15:13:47.260 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:13:47.260 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:13:51.836 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:13:51.836 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:13:54.082 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.342 seconds (JVM running for 274.14)
+2018-07-27 15:14:02.241 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 15:14:03.053 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@2abd38f5
+2018-07-27 15:14:05.543 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:14:05.905 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:14:06.220 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:14:16.098 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:14:16.543 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:14:16.776 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:14:20.508 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:14:20.782 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:14:21.026 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:14:29.762 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 15:14:32.949 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@7cea66a6
+2018-07-27 15:14:44.861 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 15:14:47.015 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@5ded6a9f
+2018-07-27 15:14:47.016 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:14:47.017 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:14:47.017 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:14:47.018 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:14:47.018 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:14:47.018 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:14:47.019 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:14:47.019 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:14:47.019 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:14:47.020 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 15:14:47.020 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@7cea66a6
+2018-07-27 15:14:53.146 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 15:14:53.946 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@144d2e1f
+2018-07-27 15:14:55.305 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:15:01.902 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:15:02.840 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:15:08.228 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:15:08.503 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:15:08.923 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:15:11.549 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:15:11.764 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:15:11.957 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:15:16.894 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 15:15:19.204 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@7cea66a6
+2018-07-27 15:15:33.639 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 15:15:34.171 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@8dcf368
+2018-07-27 15:15:38.152 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:15:38.419 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:15:40.501 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:15:46.533 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:15:46.734 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:15:46.931 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:15:50.701 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:15:50.918 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:15:51.207 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:15:56.251 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 15:15:59.341 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@7cea66a6
+2018-07-27 15:16:18.889 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 15:16:19.420 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@f01fcd1
+2018-07-27 15:16:23.103 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:16:23.523 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:16:23.805 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:16:33.472 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:16:33.472 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:16:33.472 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:16:51.906 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:16:51.906 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:16:51.906 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:16:52.547 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 15:16:52.548 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@7cea66a6
+2018-07-27 15:16:53.118 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:16:53.118 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:16:55.250 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.218 seconds (JVM running for 455.308)
+2018-07-27 15:17:02.864 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 15:17:03.065 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@22469d1f
+2018-07-27 15:17:03.066 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:17:03.067 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:17:03.067 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:17:03.259 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:17:03.260 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:17:03.260 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:17:03.454 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:17:03.454 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:17:03.454 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:17:03.631 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 15:17:03.632 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@1f30386f
+2018-07-27 15:17:04.206 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 15:17:04.397 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@3d120c0b
+2018-07-27 15:17:04.398 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:17:04.398 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:17:04.398 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:17:04.583 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:17:04.584 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:17:04.584 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:17:04.761 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法：getUserIndex
+2018-07-27 15:17:04.761 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 原方法1：com.edwin.fsg.controller.UserController
+2018-07-27 15:17:04.761 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 参数：1
+2018-07-27 15:17:04.955 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 15:17:04.956 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@1f30386f
+2018-07-27 15:17:27.171 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:17:27.171 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:17:29.039 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 1.945 seconds (JVM running for 489.097)
+2018-07-27 15:17:54.378 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:17:54.379 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:17:56.787 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.482 seconds (JVM running for 516.845)
+2018-07-27 15:17:59.173 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:17:59.174 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:18:00.936 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 1.845 seconds (JVM running for 520.995)
+2018-07-27 15:18:14.776 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 15:18:15.405 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@cd41db0
+2018-07-27 15:18:23.041 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@7f2aecc6
+2018-07-27 15:18:27.191 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@5d8c1bbe
+2018-07-27 15:18:34.640 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@60df35e6
+2018-07-27 15:18:34.641 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 15:18:34.641 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@4cca9dd0
+2018-07-27 15:18:39.663 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 15:18:40.411 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@293620c6
+2018-07-27 15:18:50.231 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@27f1cb90
+2018-07-27 15:18:50.404 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@23ce4bb6
+2018-07-27 15:18:50.580 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@66ccc1ab
+2018-07-27 15:18:50.581 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 15:18:50.582 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@4cca9dd0
+2018-07-27 15:19:35.960 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:19:35.961 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:19:37.845 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 1.956 seconds (JVM running for 617.904)
+2018-07-27 15:19:50.024 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:19:50.025 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:19:51.782 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 1.852 seconds (JVM running for 631.84)
+2018-07-27 15:19:57.969 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:19:57.969 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:19:59.760 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 1.848 seconds (JVM running for 639.819)
+2018-07-27 15:21:02.575 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:21:02.575 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:21:04.201 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 1.698 seconds (JVM running for 704.259)
+2018-07-27 15:21:08.482 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:21:08.483 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:21:10.301 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 1.903 seconds (JVM running for 710.359)
+2018-07-27 15:25:03.966 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 15:25:04.577 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@44c3545
+2018-07-27 15:25:18.811 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@48344568
+2018-07-27 15:25:50.195 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 15:25:50.200 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@34448573
+2018-07-27 15:27:36.576 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:27:36.577 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:27:38.367 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 1.878 seconds (JVM running for 1098.426)
+2018-07-27 15:27:51.355 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:27:51.355 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:27:53.079 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 1.787 seconds (JVM running for 1113.137)
+2018-07-27 15:28:02.116 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:28:02.117 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:28:03.843 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 1.792 seconds (JVM running for 1123.901)
+2018-07-27 15:28:19.276 logback [http-nio-8091-exec-1] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:28:28.717 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 15:28:28.898 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@50567a57
+2018-07-27 15:28:29.119 logback [http-nio-8091-exec-1] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:28:29.119 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@24b63486
+2018-07-27 15:28:29.744 logback [http-nio-8091-exec-1] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:28:29.745 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4b523727
+2018-07-27 15:28:29.982 logback [http-nio-8091-exec-1] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:28:29.982 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@69a0f0b0
+2018-07-27 15:28:29.983 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 15:28:29.983 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@6a332964
+2018-07-27 15:28:30.502 logback [http-nio-8091-exec-2] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:28:30.746 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 15:28:31.198 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@73ac5123
+2018-07-27 15:28:31.419 logback [http-nio-8091-exec-2] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:28:31.419 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@32915b18
+2018-07-27 15:28:43.882 logback [http-nio-8091-exec-2] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:28:43.883 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@3e98fc5
+2018-07-27 15:28:44.483 logback [http-nio-8091-exec-2] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:28:44.484 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@52bea457
+2018-07-27 15:28:44.485 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 15:28:44.485 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@6a332964
+2018-07-27 15:29:49.112 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 8284 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:29:49.113 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:29:51.092 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.054 seconds (JVM running for 1231.151)
+2018-07-27 15:36:12.799 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 2376 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:36:12.800 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:36:38.061 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 25.643 seconds (JVM running for 27.039)
+2018-07-27 15:37:51.039 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 2376 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:37:51.039 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:37:52.292 logback [http-nio-8091-exec-1] INFO  c.e.fsg.controller.UserController.getUserIndex - java.lang.InterruptedException
+2018-07-27 15:37:52.956 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 1.995 seconds (JVM running for 101.934)
+2018-07-27 15:37:57.279 logback [http-nio-8091-exec-2] INFO  c.e.fsg.controller.UserController.getUserIndex - java.lang.InterruptedException
+2018-07-27 15:38:14.703 logback [http-nio-8091-exec-1] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:39:29.420 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 15:39:31.492 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@5e053964
+2018-07-27 15:40:34.347 logback [http-nio-8091-exec-3] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:40:38.390 logback [http-nio-8091-exec-2] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:40:43.535 logback [http-nio-8091-exec-1] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:40:43.536 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@75b643cc
+2018-07-27 15:41:11.739 logback [http-nio-8091-exec-1] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:41:15.454 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@29cf6718
+2018-07-27 15:41:21.985 logback [http-nio-8091-exec-1] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:41:21.985 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@36bb721b
+2018-07-27 15:41:21.986 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 15:41:21.986 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@ec29913
+2018-07-27 15:41:22.342 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 15:41:22.519 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@532cc4ac
+2018-07-27 15:41:22.877 logback [http-nio-8091-exec-3] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:41:22.877 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@6a78a7fb
+2018-07-27 15:41:23.365 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 15:41:23.552 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@2485ca5c
+2018-07-27 15:41:23.988 logback [http-nio-8091-exec-2] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:41:23.989 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@22b0f975
+2018-07-27 15:41:24.714 logback [http-nio-8091-exec-3] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:41:24.715 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@124e2e3e
+2018-07-27 15:41:24.865 logback [http-nio-8091-exec-2] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:41:24.866 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@5a712601
+2018-07-27 15:41:25.397 logback [http-nio-8091-exec-2] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:41:25.398 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@247685f6
+2018-07-27 15:41:25.399 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 15:41:25.399 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@ec29913
+2018-07-27 15:41:25.769 logback [http-nio-8091-exec-3] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:41:25.770 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@59e999a6
+2018-07-27 15:41:25.771 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 15:41:25.771 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@ec29913
+2018-07-27 15:41:26.334 logback [http-nio-8091-exec-4] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:41:26.692 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 15:41:26.873 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@3642276d
+2018-07-27 15:41:27.467 logback [http-nio-8091-exec-4] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:41:27.467 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@777f2d56
+2018-07-27 15:41:28.017 logback [http-nio-8091-exec-4] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:41:28.018 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@46425a13
+2018-07-27 15:41:28.549 logback [http-nio-8091-exec-4] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:41:28.550 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@1750d219
+2018-07-27 15:41:28.550 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 15:41:28.552 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@ec29913
+2018-07-27 15:52:30.300 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 2376 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:52:30.300 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:52:41.104 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 11.114 seconds (JVM running for 990.082)
+2018-07-27 15:52:45.924 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 2376 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 15:52:45.924 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 15:52:51.542 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 5.716 seconds (JVM running for 1000.52)
+2018-07-27 15:53:26.244 logback [http-nio-8091-exec-1] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:54:20.282 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 15:54:20.529 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@3afbd78f
+2018-07-27 15:54:20.967 logback [http-nio-8091-exec-1] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:54:20.968 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@654ee0a4
+2018-07-27 15:54:21.619 logback [http-nio-8091-exec-1] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:54:21.619 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@5aecbca4
+2018-07-27 15:54:22.025 logback [http-nio-8091-exec-1] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:54:22.025 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@3ff24cd6
+2018-07-27 15:54:22.026 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 15:54:22.027 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@7b63254e
+2018-07-27 15:54:23.109 logback [http-nio-8091-exec-2] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:54:23.387 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 15:54:23.692 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@197f26a3
+2018-07-27 15:54:24.064 logback [http-nio-8091-exec-2] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:54:24.065 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@58422c98
+2018-07-27 15:54:24.441 logback [http-nio-8091-exec-2] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:54:24.442 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@695051fc
+2018-07-27 15:54:24.829 logback [http-nio-8091-exec-2] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 15:54:24.829 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@386dd3d7
+2018-07-27 15:54:24.830 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 15:54:24.830 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@7b63254e
+2018-07-27 16:02:54.600 logback [http-nio-8091-exec-8] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 16:03:15.992 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 16:03:16.517 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@a1edc79
+2018-07-27 16:03:16.920 logback [http-nio-8091-exec-8] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 16:03:16.921 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4b23d642
+2018-07-27 16:03:17.481 logback [http-nio-8091-exec-8] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 16:03:17.482 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@7a22d9bf
+2018-07-27 16:03:17.846 logback [http-nio-8091-exec-8] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 16:03:17.847 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@2b0c290d
+2018-07-27 16:03:17.847 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 16:03:17.848 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@7b63254e
+2018-07-27 16:03:18.572 logback [http-nio-8091-exec-10] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 16:03:18.850 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 16:03:19.127 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@2a7c5643
+2018-07-27 16:03:19.716 logback [http-nio-8091-exec-10] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 16:03:19.717 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@6b415c78
+2018-07-27 16:03:20.212 logback [http-nio-8091-exec-10] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 16:03:20.212 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@5a601169
+2018-07-27 16:03:20.586 logback [http-nio-8091-exec-10] INFO  c.e.fsg.controller.UserController.getUserIndex - com.edwin.fsg.model.User cannot be cast to com.edwin.fsg.model.User
+2018-07-27 16:03:20.587 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@b6ea337
+2018-07-27 16:03:20.588 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 16:03:20.588 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@7b63254e
+2018-07-27 16:04:29.579 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 2376 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 16:04:29.579 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 16:04:31.609 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.105 seconds (JVM running for 1700.586)
+2018-07-27 16:04:40.474 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 2376 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 16:04:40.474 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 16:04:42.543 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.129 seconds (JVM running for 1711.521)
+2018-07-27 16:04:50.521 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 2376 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 16:04:50.521 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 16:04:52.493 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 2.027 seconds (JVM running for 1721.471)
+2018-07-27 16:06:30.943 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 2376 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 16:06:30.943 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 16:06:32.833 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 1.955 seconds (JVM running for 1821.811)
+2018-07-27 16:09:15.252 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 2376 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 16:09:15.253 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 16:09:20.224 logback [restartedMain] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 5.145 seconds (JVM running for 1989.202)
+2018-07-27 16:11:34.010 logback [main] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 6140 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 16:11:34.011 logback [main] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 16:12:02.007 logback [main] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 28.7 seconds (JVM running for 29.243)
+2018-07-27 16:12:07.739 logback [http-nio-8091-exec-10] INFO  c.e.fsg.controller.UserController.getUserIndex - User{Id=1, username=15071352684, password=200820e3227815ed1756a6b531e7e0d2, userType=1, status=1, memberId=null, parentUserId=null}
+2018-07-27 16:12:07.743 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 16:12:07.743 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@240a272f
+2018-07-27 16:12:07.750 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 16:12:07.751 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@1a8c4c00
+2018-07-27 16:12:08.160 logback [http-nio-8091-exec-9] INFO  c.e.fsg.controller.UserController.getUserIndex - User{Id=1, username=15071352684, password=200820e3227815ed1756a6b531e7e0d2, userType=1, status=1, memberId=null, parentUserId=null}
+2018-07-27 16:12:08.161 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 16:12:08.162 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@58cd6406
+2018-07-27 16:12:08.162 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 16:12:08.163 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@1a8c4c00
+2018-07-27 17:14:51.698 logback [http-nio-8091-exec-5] INFO  c.e.fsg.controller.UserController.getUserIndex - User{Id=1, username=15071352684, password=200820e3227815ed1756a6b531e7e0d2, userType=1, status=1, memberId=null, parentUserId=null}
+2018-07-27 17:14:51.710 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:14:51.711 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@152aebe7
+2018-07-27 17:14:51.711 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 17:14:51.712 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@1a8c4c00
+2018-07-27 17:14:51.941 logback [http-nio-8091-exec-6] INFO  c.e.fsg.controller.UserController.getUserIndex - User{Id=1, username=15071352684, password=200820e3227815ed1756a6b531e7e0d2, userType=1, status=1, memberId=null, parentUserId=null}
+2018-07-27 17:14:51.942 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:14:51.943 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@23c53799
+2018-07-27 17:14:51.943 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 17:14:51.944 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@1a8c4c00
+2018-07-27 17:17:17.672 logback [main] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 10036 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 17:17:17.673 logback [main] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 17:17:30.349 logback [main] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 16.936 seconds (JVM running for 24.929)
+2018-07-27 17:18:10.236 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:18:10.796 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@7c54b2a7
+2018-07-27 17:18:25.361 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 17:18:25.362 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@6aa14360
+2018-07-27 17:18:35.265 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 17:18:35.265 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@49bf2a83
+2018-07-27 17:18:42.220 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 17:18:42.220 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@e0cd9e4
+2018-07-27 17:18:42.221 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 17:18:42.221 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@af3f3e
+2018-07-27 17:18:51.899 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:18:53.261 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@f99ace
+2018-07-27 17:19:05.125 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 17:19:05.127 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@31339ca4
+2018-07-27 17:19:13.967 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 17:19:13.968 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@60d66581
+2018-07-27 17:19:26.411 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 17:19:26.412 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@36ac5f27
+2018-07-27 17:19:26.412 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 17:19:26.412 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@af3f3e
+2018-07-27 17:19:41.193 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:19:42.285 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@ebd02b9
+2018-07-27 17:19:44.547 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 17:19:44.548 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4f800882
+2018-07-27 17:19:45.795 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 17:19:45.796 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@7e85a002
+2018-07-27 17:19:52.051 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 17:19:52.052 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@2faff7cd
+2018-07-27 17:19:52.053 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 进入切面方法
+2018-07-27 17:19:52.054 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@af3f3e
+2018-07-27 17:19:58.281 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:20:03.219 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@62180ed3
+2018-07-27 17:20:19.583 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 17:20:19.584 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@232504e8
+2018-07-27 17:20:19.584 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调成功！
+2018-07-27 17:25:30.742 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:25:31.068 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@79b9027c
+2018-07-27 17:25:39.756 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 17:25:39.756 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@480a3dc1
+2018-07-27 17:25:42.946 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 17:25:42.946 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@1996fd33
+2018-07-27 17:25:48.476 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 17:25:48.477 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@76c4ca9f
+2018-07-27 17:25:48.477 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@af3f3e
+2018-07-27 17:26:09.607 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:26:10.445 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@6053f974
+2018-07-27 17:26:13.284 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@af3f3e
+2018-07-27 17:34:29.604 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:34:29.604 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@3a7f8b46
+2018-07-27 17:34:29.621 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 17:34:29.622 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@2be12cc3
+2018-07-27 17:34:29.630 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 17:34:29.630 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4991ba56
+2018-07-27 17:34:29.646 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 17:34:29.647 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4f44435b
+2018-07-27 17:34:29.648 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@af3f3e
+2018-07-27 17:34:30.047 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:34:30.048 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@129dd341
+2018-07-27 17:34:30.063 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 17:34:30.064 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@5193a5ae
+2018-07-27 17:34:30.077 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 17:34:30.078 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@18699b2d
+2018-07-27 17:34:30.089 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 17:34:30.090 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@2464a2a3
+2018-07-27 17:34:30.090 logback [http-nio-8091-exec-8] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@af3f3e
+2018-07-27 17:35:51.406 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:35:51.406 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@1dd8800c
+2018-07-27 17:35:51.418 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 17:35:51.419 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@6a32cdbe
+2018-07-27 17:35:51.425 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 17:35:51.426 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4c2456df
+2018-07-27 17:35:51.433 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 17:35:51.434 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@199e9132
+2018-07-27 17:35:51.434 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@af3f3e
+2018-07-27 17:35:51.684 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:35:51.685 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@12de24a5
+2018-07-27 17:35:51.693 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 17:35:51.694 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@de0d3f7
+2018-07-27 17:35:51.706 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 17:35:51.707 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@5068f3dc
+2018-07-27 17:35:51.723 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 17:35:51.724 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@7760ba5d
+2018-07-27 17:35:51.724 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@af3f3e
+2018-07-27 17:36:13.739 logback [main] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 17624 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 17:36:13.740 logback [main] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 17:36:16.509 logback [main] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 9880 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 17:36:16.510 logback [main] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 17:36:37.591 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:36:37.593 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@7ddfbeb2
+2018-07-27 17:36:37.602 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 17:36:37.603 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@3ce2b489
+2018-07-27 17:36:38.105 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 17:36:38.106 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@d940dd9
+2018-07-27 17:36:38.111 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 17:36:38.111 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@5ccd4bc6
+2018-07-27 17:36:38.112 logback [http-nio-8091-exec-3] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@af3f3e
+2018-07-27 17:36:38.361 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:36:38.361 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@65356fc
+2018-07-27 17:36:38.369 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 17:36:38.370 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@476e5cc7
+2018-07-27 17:36:38.381 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 17:36:38.382 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@76e39ae4
+2018-07-27 17:36:38.389 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 17:36:38.389 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@2741a388
+2018-07-27 17:36:38.390 logback [http-nio-8091-exec-2] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@af3f3e
+2018-07-27 17:38:11.692 logback [main] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 13388 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 17:38:11.693 logback [main] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 17:38:24.849 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:38:24.851 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@716bbeb0
+2018-07-27 17:38:24.864 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 17:38:24.865 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@3056b48b
+2018-07-27 17:38:24.870 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 17:38:24.871 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@1ac256e
+2018-07-27 17:38:24.879 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 17:38:24.880 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@50794bc4
+2018-07-27 17:38:24.886 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 3 次
+2018-07-27 17:38:24.887 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@69db868c
+2018-07-27 17:38:24.890 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 4 次
+2018-07-27 17:38:24.892 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@54377714
+2018-07-27 17:38:24.899 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 5 次
+2018-07-27 17:38:24.899 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@a162654
+2018-07-27 17:38:24.917 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 6 次
+2018-07-27 17:38:24.918 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@7af0067f
+2018-07-27 17:38:24.924 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 7 次
+2018-07-27 17:38:24.925 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@1fbb3520
+2018-07-27 17:38:24.931 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 8 次
+2018-07-27 17:38:24.933 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@7265c6ef
+2018-07-27 17:38:24.937 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 9 次
+2018-07-27 17:38:24.938 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@340efd28
+2018-07-27 17:38:24.944 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 10 次
+2018-07-27 17:38:24.945 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@760d1b2
+2018-07-27 17:38:24.952 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 11 次
+2018-07-27 17:38:24.953 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@609902be
+2018-07-27 17:38:24.962 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 12 次
+2018-07-27 17:38:24.963 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4b85375b
+2018-07-27 17:38:24.971 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 13 次
+2018-07-27 17:38:24.972 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@2ab7b345
+2018-07-27 17:38:24.982 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 14 次
+2018-07-27 17:38:24.982 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4e1227f1
+2018-07-27 17:38:24.992 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 15 次
+2018-07-27 17:38:24.994 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@49b52d0c
+2018-07-27 17:38:25.005 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 16 次
+2018-07-27 17:38:25.006 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@b295231
+2018-07-27 17:38:25.023 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 17 次
+2018-07-27 17:38:25.024 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@409491f7
+2018-07-27 17:38:25.034 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 18 次
+2018-07-27 17:38:25.035 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4f4d86a7
+2018-07-27 17:38:25.044 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 19 次
+2018-07-27 17:38:25.046 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@43de205a
+2018-07-27 17:38:25.055 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 20 次
+2018-07-27 17:38:25.056 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@49b45eca
+2018-07-27 17:38:25.071 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 21 次
+2018-07-27 17:38:25.071 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@54e7f3e1
+2018-07-27 17:38:25.082 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 22 次
+2018-07-27 17:38:25.083 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@291b1b84
+2018-07-27 17:38:25.097 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 23 次
+2018-07-27 17:38:25.100 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@6ab58b80
+2018-07-27 17:38:25.112 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 24 次
+2018-07-27 17:38:25.112 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4b99c8d5
+2018-07-27 17:38:25.120 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 25 次
+2018-07-27 17:38:25.121 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@3ce4b722
+2018-07-27 17:38:25.134 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 26 次
+2018-07-27 17:38:25.135 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@7a4bfd8d
+2018-07-27 17:38:25.147 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 27 次
+2018-07-27 17:38:25.151 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4733c135
+2018-07-27 17:38:25.169 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 28 次
+2018-07-27 17:38:25.170 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@173b8fcb
+2018-07-27 17:38:25.179 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 29 次
+2018-07-27 17:38:25.180 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@294b745b
+2018-07-27 17:38:25.185 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 30 次
+2018-07-27 17:38:25.185 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@1d5f07ab
+2018-07-27 17:38:25.189 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 31 次
+2018-07-27 17:38:25.190 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@5e951dcd
+2018-07-27 17:38:25.200 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 32 次
+2018-07-27 17:38:25.200 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@6162e6fd
+2018-07-27 17:38:25.214 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 33 次
+2018-07-27 17:38:25.216 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@49d2053c
+2018-07-27 17:38:25.224 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 34 次
+2018-07-27 17:38:25.224 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@15e291fb
+2018-07-27 17:38:25.233 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 35 次
+2018-07-27 17:38:25.233 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@bbbdfc6
+2018-07-27 17:38:25.239 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 36 次
+2018-07-27 17:38:25.239 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@67484271
+2018-07-27 17:38:25.255 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 37 次
+2018-07-27 17:38:25.256 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@2e0793b4
+2018-07-27 17:38:25.263 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 38 次
+2018-07-27 17:38:25.264 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4e482c7c
+2018-07-27 17:38:25.271 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 39 次
+2018-07-27 17:38:25.272 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@1ea2f306
+2018-07-27 17:38:25.286 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 40 次
+2018-07-27 17:38:25.286 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4f6b84f2
+2018-07-27 17:38:25.292 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 41 次
+2018-07-27 17:38:25.293 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@18747f0d
+2018-07-27 17:38:25.301 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 42 次
+2018-07-27 17:38:25.301 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@300506f6
+2018-07-27 17:38:25.307 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 43 次
+2018-07-27 17:38:25.307 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@26fffc31
+2018-07-27 17:38:25.319 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 44 次
+2018-07-27 17:38:25.320 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4f2dedb7
+2018-07-27 17:38:25.332 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 45 次
+2018-07-27 17:38:25.332 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@48d894c2
+2018-07-27 17:38:25.341 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 46 次
+2018-07-27 17:38:25.342 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4cb48e2
+2018-07-27 17:38:25.354 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 47 次
+2018-07-27 17:38:25.354 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@662d090e
+2018-07-27 17:38:25.382 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 48 次
+2018-07-27 17:38:25.382 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@46e64493
+2018-07-27 17:38:25.400 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 49 次
+2018-07-27 17:38:25.401 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@5d378336
+2018-07-27 17:38:25.410 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 50 次
+2018-07-27 17:38:25.411 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@1590ccbf
+2018-07-27 17:38:25.419 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 51 次
+2018-07-27 17:38:25.420 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@439d77ad
+2018-07-27 17:38:25.429 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 52 次
+2018-07-27 17:38:25.429 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@77c12fc
+2018-07-27 17:38:25.440 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 53 次
+2018-07-27 17:38:25.440 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@1e60e070
+2018-07-27 17:38:25.452 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 54 次
+2018-07-27 17:38:25.455 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@3b3b8521
+2018-07-27 17:38:25.470 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 55 次
+2018-07-27 17:38:25.470 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@52110995
+2018-07-27 17:38:25.480 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 56 次
+2018-07-27 17:38:25.481 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@558e5fd2
+2018-07-27 17:38:25.494 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 57 次
+2018-07-27 17:38:25.496 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@1c6e96a1
+2018-07-27 17:38:25.504 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 58 次
+2018-07-27 17:38:25.504 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@579fb0c7
+2018-07-27 17:38:25.520 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 59 次
+2018-07-27 17:38:25.521 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@32daadbc
+2018-07-27 17:38:25.527 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 60 次
+2018-07-27 17:38:25.528 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@281f65a7
+2018-07-27 17:38:25.533 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 61 次
+2018-07-27 17:38:25.534 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@5aadf937
+2018-07-27 17:38:25.540 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 62 次
+2018-07-27 17:38:25.540 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@6c200fd1
+2018-07-27 17:38:25.553 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 63 次
+2018-07-27 17:38:25.553 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@c7aa2a3
+2018-07-27 17:38:25.563 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 64 次
+2018-07-27 17:38:25.564 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@5483fd50
+2018-07-27 17:38:25.569 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 65 次
+2018-07-27 17:38:25.570 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@687c0810
+2018-07-27 17:38:25.579 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 66 次
+2018-07-27 17:38:25.579 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@12c680bd
+2018-07-27 17:38:25.584 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 67 次
+2018-07-27 17:38:25.585 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@7d06f0b0
+2018-07-27 17:38:25.591 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 68 次
+2018-07-27 17:38:25.591 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@2687b21a
+2018-07-27 17:38:25.598 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 69 次
+2018-07-27 17:38:25.598 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@bcf011e
+2018-07-27 17:38:25.607 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 70 次
+2018-07-27 17:38:25.607 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@ff5b23
+2018-07-27 17:38:25.616 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 71 次
+2018-07-27 17:38:25.616 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@56c387c
+2018-07-27 17:38:25.623 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 72 次
+2018-07-27 17:38:25.623 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@7d28526f
+2018-07-27 17:38:25.635 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 73 次
+2018-07-27 17:38:25.636 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@2f8fa90e
+2018-07-27 17:38:25.646 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 74 次
+2018-07-27 17:38:25.647 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@3666d858
+2018-07-27 17:38:25.655 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 75 次
+2018-07-27 17:38:25.656 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@9e47628
+2018-07-27 17:38:25.665 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 76 次
+2018-07-27 17:38:25.665 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@12f82a7e
+2018-07-27 17:38:25.676 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 77 次
+2018-07-27 17:38:25.677 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@68ba559d
+2018-07-27 17:38:25.692 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 78 次
+2018-07-27 17:38:25.692 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4dcbf9b1
+2018-07-27 17:38:25.705 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 79 次
+2018-07-27 17:38:25.705 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@1c3f8ac7
+2018-07-27 17:38:25.718 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 80 次
+2018-07-27 17:38:25.719 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@c44130a
+2018-07-27 17:38:25.725 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 81 次
+2018-07-27 17:38:25.726 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@5348e827
+2018-07-27 17:38:25.735 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 82 次
+2018-07-27 17:38:25.735 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@62cdeba7
+2018-07-27 17:38:25.744 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 83 次
+2018-07-27 17:38:25.745 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4c0238d5
+2018-07-27 17:38:25.751 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 84 次
+2018-07-27 17:38:25.752 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@64ee8e93
+2018-07-27 17:38:25.758 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 85 次
+2018-07-27 17:38:25.759 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@1e1ee2f8
+2018-07-27 17:38:25.766 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 86 次
+2018-07-27 17:38:25.766 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@79168d4c
+2018-07-27 17:38:25.773 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 87 次
+2018-07-27 17:38:25.773 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@6e798edc
+2018-07-27 17:38:25.780 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 88 次
+2018-07-27 17:38:25.780 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@2a3aa9e5
+2018-07-27 17:38:25.786 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 89 次
+2018-07-27 17:38:25.786 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@42ebeaf0
+2018-07-27 17:38:25.793 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 90 次
+2018-07-27 17:38:25.794 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@3f1ab7f
+2018-07-27 17:38:25.802 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 91 次
+2018-07-27 17:38:25.803 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4a785ced
+2018-07-27 17:38:25.818 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 92 次
+2018-07-27 17:38:25.819 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@6285beee
+2018-07-27 17:38:25.824 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 93 次
+2018-07-27 17:38:25.825 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@7154bb23
+2018-07-27 17:38:25.829 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 94 次
+2018-07-27 17:38:25.830 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@587c027d
+2018-07-27 17:38:25.834 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 95 次
+2018-07-27 17:38:25.834 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@6df9920b
+2018-07-27 17:38:25.840 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 96 次
+2018-07-27 17:38:25.840 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4f1024fa
+2018-07-27 17:38:25.845 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 97 次
+2018-07-27 17:38:25.845 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@52993edf
+2018-07-27 17:38:25.850 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 98 次
+2018-07-27 17:38:25.850 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@5611481d
+2018-07-27 17:38:25.855 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 99 次
+2018-07-27 17:38:25.855 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@32500725
+2018-07-27 17:38:25.855 logback [http-nio-8091-exec-5] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@af3f3e
+2018-07-27 17:38:26.103 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:38:26.103 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@5b6a8fe9
+2018-07-27 17:38:26.118 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 17:38:26.119 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@6a7bd10e
+2018-07-27 17:38:26.127 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 17:38:26.128 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@3b4570a6
+2018-07-27 17:38:26.135 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 17:38:26.136 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@66ed7525
+2018-07-27 17:38:26.147 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 3 次
+2018-07-27 17:38:26.147 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@3f0baf5a
+2018-07-27 17:38:26.158 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 4 次
+2018-07-27 17:38:26.158 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@318527c0
+2018-07-27 17:38:26.183 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 5 次
+2018-07-27 17:38:26.184 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@25692cef
+2018-07-27 17:38:26.203 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 6 次
+2018-07-27 17:38:26.204 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@60120f23
+2018-07-27 17:38:26.218 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 7 次
+2018-07-27 17:38:26.218 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@1acd6e68
+2018-07-27 17:38:26.225 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 8 次
+2018-07-27 17:38:26.225 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@1e75d706
+2018-07-27 17:38:26.237 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 9 次
+2018-07-27 17:38:26.238 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@60ca33a2
+2018-07-27 17:38:26.255 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 10 次
+2018-07-27 17:38:26.255 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4bf51d8a
+2018-07-27 17:38:26.269 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 11 次
+2018-07-27 17:38:26.269 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@46a4e4c8
+2018-07-27 17:38:26.300 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 12 次
+2018-07-27 17:38:26.301 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@1fac17b3
+2018-07-27 17:38:26.316 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 13 次
+2018-07-27 17:38:26.316 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@1d9b9c02
+2018-07-27 17:38:26.323 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 14 次
+2018-07-27 17:38:26.323 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@2c0a1633
+2018-07-27 17:38:26.380 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 15 次
+2018-07-27 17:38:26.381 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@54de9c4c
+2018-07-27 17:38:26.389 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 16 次
+2018-07-27 17:38:26.390 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@5f99ca78
+2018-07-27 17:38:26.398 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 17 次
+2018-07-27 17:38:26.399 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@491cbaec
+2018-07-27 17:38:26.406 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 18 次
+2018-07-27 17:38:26.407 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@c106831
+2018-07-27 17:38:26.414 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 19 次
+2018-07-27 17:38:26.414 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4a26d8a6
+2018-07-27 17:38:26.421 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 20 次
+2018-07-27 17:38:26.421 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@52c8e6c
+2018-07-27 17:38:26.428 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 21 次
+2018-07-27 17:38:26.429 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@1130e6ff
+2018-07-27 17:38:26.436 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 22 次
+2018-07-27 17:38:26.436 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@6b10674b
+2018-07-27 17:38:26.443 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 23 次
+2018-07-27 17:38:26.443 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@6f3c1339
+2018-07-27 17:38:26.453 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 24 次
+2018-07-27 17:38:26.453 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@7b90acfb
+2018-07-27 17:38:26.467 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 25 次
+2018-07-27 17:38:26.468 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@6529bfbb
+2018-07-27 17:38:26.487 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 26 次
+2018-07-27 17:38:26.488 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@1d2bb213
+2018-07-27 17:38:26.500 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 27 次
+2018-07-27 17:38:26.501 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@41406850
+2018-07-27 17:38:26.517 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 28 次
+2018-07-27 17:38:26.517 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@730447ab
+2018-07-27 17:38:26.527 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 29 次
+2018-07-27 17:38:26.528 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@3e423bc6
+2018-07-27 17:38:26.536 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 30 次
+2018-07-27 17:38:26.536 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@221f4401
+2018-07-27 17:38:26.547 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 31 次
+2018-07-27 17:38:26.548 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@6733054f
+2018-07-27 17:38:26.561 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 32 次
+2018-07-27 17:38:26.562 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@770dca76
+2018-07-27 17:38:26.573 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 33 次
+2018-07-27 17:38:26.574 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@44fbf05f
+2018-07-27 17:38:26.594 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 34 次
+2018-07-27 17:38:26.594 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@27cadb47
+2018-07-27 17:38:26.615 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 35 次
+2018-07-27 17:38:26.616 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@6bfad617
+2018-07-27 17:38:26.728 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 36 次
+2018-07-27 17:38:26.729 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4b834e22
+2018-07-27 17:38:26.769 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 37 次
+2018-07-27 17:38:26.770 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@43931f85
+2018-07-27 17:38:26.790 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 38 次
+2018-07-27 17:38:26.792 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@3dab68ba
+2018-07-27 17:38:26.830 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 39 次
+2018-07-27 17:38:26.830 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@3985caef
+2018-07-27 17:38:26.846 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 40 次
+2018-07-27 17:38:26.846 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@75652a96
+2018-07-27 17:38:26.852 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 41 次
+2018-07-27 17:38:26.853 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@c0fd0d3
+2018-07-27 17:38:26.861 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 42 次
+2018-07-27 17:38:26.862 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@2800588c
+2018-07-27 17:38:26.867 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 43 次
+2018-07-27 17:38:26.867 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@14e0ce28
+2018-07-27 17:38:26.872 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 44 次
+2018-07-27 17:38:26.872 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@259021f7
+2018-07-27 17:38:26.877 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 45 次
+2018-07-27 17:38:26.878 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@92d2a65
+2018-07-27 17:38:26.883 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 46 次
+2018-07-27 17:38:26.883 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@54f494a7
+2018-07-27 17:38:26.890 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 47 次
+2018-07-27 17:38:26.890 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@5e9b783e
+2018-07-27 17:38:26.894 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 48 次
+2018-07-27 17:38:26.895 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@221f316d
+2018-07-27 17:38:26.899 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 49 次
+2018-07-27 17:38:26.899 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@314f3348
+2018-07-27 17:38:26.904 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 50 次
+2018-07-27 17:38:26.905 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@4eab2b86
+2018-07-27 17:38:26.910 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 51 次
+2018-07-27 17:38:26.911 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@352e37a5
+2018-07-27 17:38:26.917 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 52 次
+2018-07-27 17:38:26.918 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@10b88d7c
+2018-07-27 17:38:26.923 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 53 次
+2018-07-27 17:38:26.923 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@35cc8184
+2018-07-27 17:38:26.928 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 54 次
+2018-07-27 17:38:26.929 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@25dfc62c
+2018-07-27 17:38:26.934 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 55 次
+2018-07-27 17:38:26.935 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@5de45a4a
+2018-07-27 17:38:26.940 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 56 次
+2018-07-27 17:38:26.940 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@340baa4b
+2018-07-27 17:38:26.944 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 57 次
+2018-07-27 17:38:26.945 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@6e4512f8
+2018-07-27 17:38:26.950 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 58 次
+2018-07-27 17:38:26.950 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@1faab233
+2018-07-27 17:38:26.955 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 59 次
+2018-07-27 17:38:26.956 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@292630e7
+2018-07-27 17:38:26.961 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 60 次
+2018-07-27 17:38:26.961 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@45514a38
+2018-07-27 17:38:26.969 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 61 次
+2018-07-27 17:38:26.969 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@234d425d
+2018-07-27 17:38:26.973 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 62 次
+2018-07-27 17:38:26.974 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@61f9cdf7
+2018-07-27 17:38:26.978 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 63 次
+2018-07-27 17:38:26.978 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@34e13541
+2018-07-27 17:38:26.983 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 64 次
+2018-07-27 17:38:26.984 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@7e6bd0d
+2018-07-27 17:38:26.990 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 65 次
+2018-07-27 17:38:26.990 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@795c530f
+2018-07-27 17:38:27.001 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 66 次
+2018-07-27 17:38:27.001 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@19b1eaf2
+2018-07-27 17:38:27.006 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 67 次
+2018-07-27 17:38:27.006 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@17bedf17
+2018-07-27 17:38:27.010 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 68 次
+2018-07-27 17:38:27.011 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@43a38865
+2018-07-27 17:38:27.015 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 69 次
+2018-07-27 17:38:27.016 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@27ed8c5e
+2018-07-27 17:38:27.020 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 70 次
+2018-07-27 17:38:27.021 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@35bed2c7
+2018-07-27 17:38:27.026 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 71 次
+2018-07-27 17:38:27.027 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@6d8cdb71
+2018-07-27 17:38:27.031 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 72 次
+2018-07-27 17:38:27.031 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@48fa6142
+2018-07-27 17:38:27.037 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 73 次
+2018-07-27 17:38:27.037 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@24edb9ef
+2018-07-27 17:38:27.042 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 74 次
+2018-07-27 17:38:27.044 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@3981e3cb
+2018-07-27 17:38:27.049 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 75 次
+2018-07-27 17:38:27.049 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@52b884f4
+2018-07-27 17:38:27.054 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 76 次
+2018-07-27 17:38:27.054 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@153f3fda
+2018-07-27 17:38:27.059 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 77 次
+2018-07-27 17:38:27.059 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@3400640
+2018-07-27 17:38:27.066 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 78 次
+2018-07-27 17:38:27.066 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@7c160d1d
+2018-07-27 17:38:27.071 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 79 次
+2018-07-27 17:38:27.071 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@270fb588
+2018-07-27 17:38:27.077 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 80 次
+2018-07-27 17:38:27.078 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@22c65cb9
+2018-07-27 17:38:27.083 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 81 次
+2018-07-27 17:38:27.083 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@2ab98918
+2018-07-27 17:38:27.088 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 82 次
+2018-07-27 17:38:27.088 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@72623505
+2018-07-27 17:38:27.096 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 83 次
+2018-07-27 17:38:27.097 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@62487147
+2018-07-27 17:38:27.104 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 84 次
+2018-07-27 17:38:27.105 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@6fad876a
+2018-07-27 17:38:27.110 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 85 次
+2018-07-27 17:38:27.110 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@34272105
+2018-07-27 17:38:27.115 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 86 次
+2018-07-27 17:38:27.115 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@19172fdf
+2018-07-27 17:38:27.123 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 87 次
+2018-07-27 17:38:27.123 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@2484be46
+2018-07-27 17:38:27.141 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 88 次
+2018-07-27 17:38:27.142 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@daf173d
+2018-07-27 17:38:27.147 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 89 次
+2018-07-27 17:38:27.147 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@11084c5c
+2018-07-27 17:38:27.153 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 90 次
+2018-07-27 17:38:27.154 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@7c7140f0
+2018-07-27 17:38:27.159 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 91 次
+2018-07-27 17:38:27.159 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@426e3ed1
+2018-07-27 17:38:27.178 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 92 次
+2018-07-27 17:38:27.179 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@2820e1c0
+2018-07-27 17:38:27.186 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 93 次
+2018-07-27 17:38:27.186 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@35a2ff4b
+2018-07-27 17:38:27.192 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 94 次
+2018-07-27 17:38:27.193 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@463e0631
+2018-07-27 17:38:27.199 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 95 次
+2018-07-27 17:38:27.200 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@2c0a4f00
+2018-07-27 17:38:27.205 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 96 次
+2018-07-27 17:38:27.206 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@d3abe05
+2018-07-27 17:38:27.213 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 97 次
+2018-07-27 17:38:27.214 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@78c44ab7
+2018-07-27 17:38:27.222 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 98 次
+2018-07-27 17:38:27.222 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@2313fca
+2018-07-27 17:38:27.228 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 99 次
+2018-07-27 17:38:27.229 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@1d4edae7
+2018-07-27 17:38:27.229 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@af3f3e
+2018-07-27 17:49:43.672 logback [main] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 9480 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 17:49:43.673 logback [main] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 17:50:41.774 logback [main] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 13392 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 17:50:41.775 logback [main] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 17:51:13.278 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:51:13.280 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@57a8917b
+2018-07-27 17:51:13.287 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 17:51:13.288 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@56bf4951
+2018-07-27 17:51:13.296 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 17:51:13.297 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@788cb8b2
+2018-07-27 17:51:13.301 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 17:51:13.301 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@e33904
+2018-07-27 17:51:13.301 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@af3f3e
+2018-07-27 17:51:13.616 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:51:13.617 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@78552f74
+2018-07-27 17:51:13.625 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 17:51:13.625 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@60c69a9b
+2018-07-27 17:51:13.631 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 17:51:13.632 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@15794d47
+2018-07-27 17:51:13.640 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 17:51:13.640 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@2ecde79a
+2018-07-27 17:51:13.641 logback [http-nio-8091-exec-9] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@af3f3e
+2018-07-27 17:51:25.591 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:51:25.592 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@33a05535
+2018-07-27 17:51:25.596 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 17:51:25.597 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@258d2821
+2018-07-27 17:51:25.603 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 17:51:25.603 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@7c4ef06f
+2018-07-27 17:51:25.610 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 17:51:25.611 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@67d3ab43
+2018-07-27 17:51:25.612 logback [http-nio-8091-exec-7] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@af3f3e
+2018-07-27 17:51:25.770 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:51:25.770 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@6f19529
+2018-07-27 17:51:25.778 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 17:51:25.781 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@47444404
+2018-07-27 17:51:25.787 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 17:51:25.787 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@2d74536c
+2018-07-27 17:51:25.795 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 17:51:25.796 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@21cb5371
+2018-07-27 17:51:25.796 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@af3f3e
+2018-07-27 17:52:21.574 logback [main] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 4744 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 17:52:21.574 logback [main] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 17:52:25.531 logback [main] INFO  com.edwin.fsg.AppMain.logStarted - Started AppMain in 4.284 seconds (JVM running for 5.103)
+2018-07-27 17:52:43.753 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:52:43.754 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@199536d7
+2018-07-27 17:52:43.758 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 17:52:43.770 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@41bd056d
+2018-07-27 17:52:43.772 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 17:52:48.778 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@7852934a
+2018-07-27 17:52:48.778 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 17:52:58.782 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@52d3d3bc
+2018-07-27 17:52:58.783 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@6925537f
+2018-07-27 17:52:59.048 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:52:59.049 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@f400c1a
+2018-07-27 17:52:59.049 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 17:52:59.070 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@3e052456
+2018-07-27 17:52:59.071 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 17:53:04.077 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@6f6ff355
+2018-07-27 17:53:04.078 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 17:53:14.102 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@1b78cdc2
+2018-07-27 17:53:14.102 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - joinPoint---targe :com.edwin.fsg.controller.UserController@6925537f
+2018-07-27 17:53:14.114 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:53:14.114 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@4275972f
+2018-07-27 17:53:14.115 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 17:53:14.121 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@3489d14
+2018-07-27 17:53:14.121 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 17:53:19.127 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@3201b9c8
+2018-07-27 17:53:19.127 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 17:53:29.132 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@6367625b
+2018-07-27 17:53:29.133 logback [http-nio-8091-exec-6] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调成功！
+2018-07-27 17:54:23.461 logback [main] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 15840 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 17:54:23.461 logback [main] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 17:54:43.238 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 17:54:43.238 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@c9c71e2
+2018-07-27 17:54:43.239 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 17:54:43.245 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@65bcaa40
+2018-07-27 17:54:43.245 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 17:54:48.252 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@90c3f24
+2018-07-27 17:54:48.253 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 17:54:58.257 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@678d42c9
+2018-07-27 17:54:58.258 logback [http-nio-8091-exec-1] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调成功！
+2018-07-27 17:59:45.827 logback [main] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 7536 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 17:59:45.828 logback [main] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 18:00:08.820 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 18:00:08.822 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@6b21689b
+2018-07-27 18:00:08.822 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 18:00:08.831 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@7991a955
+2018-07-27 18:00:08.832 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 18:00:13.835 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@44c2dd18
+2018-07-27 18:00:13.836 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 18:00:23.844 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@47769b00
+2018-07-27 18:00:23.845 logback [http-nio-8091-exec-4] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调成功！
+2018-07-27 18:01:28.061 logback [main] INFO  com.edwin.fsg.AppMain.logStarting - Starting AppMain on YULANG-PC with PID 19332 (G:\STS\e-parent\e-order-web\target\classes started by Administrator in G:\STS\e-parent\e-order-web)
+2018-07-27 18:01:28.061 logback [main] INFO  com.edwin.fsg.AppMain.logStartupProfileInfo - No active profile set, falling back to default profiles: default
+2018-07-27 18:01:39.346 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - Begin validate curUser's permission on the method[com.edwin.fsg.controller.UserController.getUserIndex].
+2018-07-27 18:01:39.346 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - result: com.edwin.fsg.common.Result@583d07ee
+2018-07-27 18:01:39.347 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 0 次
+2018-07-27 18:01:39.366 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@8208c3c
+2018-07-27 18:01:39.367 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 1 次
+2018-07-27 18:01:44.372 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@a3dc22e
+2018-07-27 18:01:44.372 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调第: 2 次
+2018-07-27 18:01:54.378 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调结果：com.edwin.fsg.common.Result@1324812f
+2018-07-27 18:01:54.378 logback [http-nio-8091-exec-10] INFO  com.edwin.fsg.aop.RetryRejectAspect.beforeMethod - 回调成功！
