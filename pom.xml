@@ -26,10 +26,10 @@
 			<artifactId>druid</artifactId>
 			<version>1.1.10</version>
 		</dependency>
-	<dependency>
+	 <dependency>
 			<groupId>com.alibaba.boot</groupId>
 			<artifactId>dubbo-spring-boot-starter</artifactId>
-			<version>0.1.0</version>
+			<version>0.1.1</version>
 		</dependency>
 
 		<!--引入zookeeper的客户端工具 -->
@@ -63,11 +63,46 @@
 		<version>3.7</version>
 	 </dependency>
 	 
+    <dependency>
+	  <groupId>com.baomidou</groupId>
+	  <artifactId>mybatis-plus</artifactId>
+	  <version>2.3</version>
+   </dependency>
+	<dependency>
+		<groupId>com.baomidou</groupId>
+		<artifactId>mybatis-plus-generate</artifactId>
+		<version>2.3</version>
+	</dependency>
+	<dependency>
+		<groupId>com.baomidou</groupId>
+		<artifactId>mybatisplus-spring-boot-starter</artifactId>
+		<version>1.0.5</version>
+	</dependency>
+	
+	<dependency>
+	    <groupId>commons-codec</groupId>
+	    <artifactId>commons-codec</artifactId>
+	    <version>1.9</version>
+	</dependency>
+
+	<dependency>
+		<groupId>io.springfox</groupId>
+		<artifactId>springfox-swagger2</artifactId>
+		 <version>2.9.2</version>
+	</dependency>
+	<dependency>
+		<groupId>io.springfox</groupId>
+		<artifactId>springfox-swagger-ui</artifactId>
+		 <version>2.9.2</version>
+	</dependency>
+            
 	</dependencies>	
 	</dependencyManagement>
   <modules>
   	<module>e-pojo</module>
   	<module>e-order-service</module>
   	<module>e-order-web</module>
+  	<module>e-common</module>
+  	<module>e-config</module>
   </modules>
 </project>

@@ -6,4 +6,11 @@
     <version>1.0.0</version>
   </parent>
   <artifactId>e-pojo</artifactId>
+  
+  <dependencies>
+<!--      <dependency> -->
+<!-- 	  <groupId>com.baomidou</groupId> -->
+<!-- 	  <artifactId>mybatis-plus</artifactId> -->
+<!--    </dependency> -->
+  </dependencies>
 </project>
