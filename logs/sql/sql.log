@@ -1,0 +1,8 @@
+2018-07-18 17:05:41.316 logback [DubboServerHandler-169.254.242.93:20887-thread-2] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} created. insert into m_log(create_time,create_name,remark)
+   values(?,?,?)
+2018-07-18 17:05:41.335 logback [DubboServerHandler-169.254.242.93:20887-thread-2] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Parameters : [2018-07-18 17:05:40.639, XITONG, 获取用户信息-->]
+2018-07-18 17:05:41.336 logback [DubboServerHandler-169.254.242.93:20887-thread-2] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} Types : [TIMESTAMP, VARCHAR, VARCHAR]
+2018-07-18 17:05:41.337 logback [DubboServerHandler-169.254.242.93:20887-thread-2] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} executed. 14.310106 millis. insert into m_log(create_time,create_name,remark)
+   values(?,?,?)
+2018-07-18 17:05:41.338 logback [DubboServerHandler-169.254.242.93:20887-thread-2] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} clearParameters. 
+2018-07-18 17:12:51.390 logback [RMI TCP Connection(19)-127.0.0.1] DEBUG druid.sql.Statement.statementLog - {conn-10005, pstmt-20000} closed

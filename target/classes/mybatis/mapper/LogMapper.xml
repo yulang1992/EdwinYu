@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.edwin.fsg.mapper.LogMapper">
+  
+ 
+  
+  <insert id="insertLog">
+   insert into m_log(create_time,create_name,remark)
+   values(#{createTime},#{createName},#{remark})
+  </insert>
+  
+  
+  <sql id="log_condition_where">
+     <where>
+        <if test="id !=null">
+           and id =#{id}
+        </if>
+        <if test="createName !=null and createName!='' ">
+          and create_name =#{createName}
+        </if>
+     </where>
+     order by id asc
+  </sql>
+  
+   <sql id="log_alias_cloum">
+   id,create_time createTime,create_name createName,remark
+  </sql>
+  
+  <select id="findPage" resultType="com.edwin.fsg.model.MLog" parameterType="map">
+    select  <include refid="log_alias_cloum" /> from m_log
+    <include refid="log_condition_where" />
+  </select>
+  
+   <select id="getById" resultType="com.edwin.fsg.model.MLog">
+    select  <include refid="log_alias_cloum" /> from m_log where id =#{id}
+  </select>
+</mapper>
